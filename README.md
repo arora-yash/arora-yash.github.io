@@ -1,2 +1,3 @@
-# yasharora.github.io
-Contains some information
+# arora-yash.github.io
+Personal Website
+Contains personal information

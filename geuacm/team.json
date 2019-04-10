@@ -1,10 +1,14 @@
 {
-        "name": "Yash Kumar Arora",
-        "designation": "Chair",
-        "phone": "+918899040004"
+  "payload": [
+    {
+      "name": "Yash Kumar Arora",
+      "designation": "Chair",
+      "phone": "+918899040004"
     },
     {
-        "name": "Siddhant Aggarwal",
-        "designation": "Vice Chair",
-        "phone": "+919717374362"
+      "name": "Siddhant Aggarwal",
+      "designation": "Vice Chair",
+      "phone": "+919717374362"
     }
+  ]
+}

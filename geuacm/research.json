@@ -1,0 +1,19 @@
+{
+  "payload": {
+    "user": [
+      {
+        "name": "Dr. Santosh Kumar",
+        "designation": "Networking, Machine Learning",
+        "image": "https://arora-yash.github.io/geuacm/research/santosh.jpg",
+        "email": "amu.santosh@gmail.com"
+      }
+    ]
+  },
+  "meta": {},
+  "status": {
+    "message": "success",
+    "code": "001",
+    "status": "SUCCESS"
+  },
+  "nextAction": {}
+}

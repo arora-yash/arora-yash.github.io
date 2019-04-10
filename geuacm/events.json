@@ -1,0 +1,19 @@
+{
+  "payload": {
+    "user": [
+      {
+        "name": "Version Control & Git 2.0",
+        "description": "Workshop",
+        "image": "https://arora-yash.github.io/geuacm/events/1.png",
+        "url": "https://forms.gle/yaNE4vcwyqP5Dt3b9"
+      }
+    ]
+  },
+  "meta": {},
+  "status": {
+    "message": "success",
+    "code": "001",
+    "status": "SUCCESS"
+  },
+  "nextAction": {}
+}

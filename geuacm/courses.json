@@ -1,0 +1,133 @@
+{
+  "payload": {
+    "user": [
+      {
+        "name": "RoadMap",
+        "header": true
+      },
+      {
+        "name": "Cyber Security",
+        "url": "https://careerhigh.in/roadmap/5",
+        "header": false
+      },
+      {
+        "name": "Programming for Beginner's",
+        "url": "https://careerhigh.in/roadmap/4",
+        "header": false
+      },
+      {
+        "name": "Programming Languages",
+        "header": true
+      },
+      {
+        "name": "Java",
+        "url": "https://www.youtube.com/watch?v=qvf2FMtJPZY&list=PL9ooVrP1hQOHb4bxoHauWVwNg4FweDItZ",
+        "header": false
+      },
+      {
+        "name": "C",
+        "url": "https://www.youtube.com/watch?v=-CpG3oATGIs&t=123s",
+        "header": false
+      },
+      {
+        "name": "C++",
+        "url": "https://www.youtube.com/watch?v=e1YafrxYOWw&list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK",
+        "header": false
+      },
+      {
+        "name": "Python",
+        "url": "https://www.youtube.com/watch?v=jJkEc9d1Rwg&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu",
+        "header": false
+      },
+      {
+        "name": "Artificial Intelligence",
+        "header": true
+      },
+      {
+        "name": "How to get Started",
+        "url": "https://www.hackerearth.com/blog/artificial-intelligence/artificial-intelligence-101-how-to-get-started/",
+        "header": false
+      },
+      {
+        "name": "Hacking",
+        "header": true
+      },
+      {
+        "name": "Basics of Ethical Hacking",
+        "url": "https://www.tutorialspoint.com/ethical_hacking/ethical_hacking_overview.htm",
+        "header": false
+      },
+      {
+        "name": "Penetration Testing and Ethical Hacking",
+        "url": "https://www.cybrary.it/course/ethical-hacking/",
+        "header": false
+      },
+      {
+        "name": "Basics of Kali Linux",
+        "url": "https://www.kalitutorials.net/",
+        "header": false
+      },
+      {
+        "name": "Awesome hacking Stuff",
+        "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+        "header": false
+      },
+      {
+        "name": "Awesome Hacking Resources",
+        "url": "https://github.com/vitalysim/Awesome-Hacking-Resources",
+        "header": false
+      },
+      {
+        "name": "List Of 53 Free Courses On Ethical Hacking",
+        "url": "https://www.udemy.com/courses/search/?src=ukw&q=Ethical%20Hacking&p=1&price=price-free&lang=en",
+        "header": false
+      },
+      {
+        "name": "Kuch Hatke!!!",
+        "header": true
+      },
+      {
+        "name": "Build a Chatbot in 5 Minutes",
+        "url": "https://www.youtube.com/watch?v=gCQCnIVD580",
+        "header": false
+      },
+      {
+        "name": "Build a Web Crawler",
+        "url": "https://www.youtube.com/watch?v=gxfKTA0cGK8",
+        "header": false
+      },
+      {
+        "name": "Build the Classic Snake Game",
+        "url": "https://www.youtube.com/watch?v=Ies8mEhO9FY",
+        "header": false
+      },
+      {
+        "name": "Convert Website to Android App",
+        "url": "https://www.youtube.com/watch?v=32bnZPJCFCk",
+        "header": false
+      },
+      {
+        "name": "Build Coin Toss Android Application",
+        "url": "https://www.youtube.com/watch?v=SWcV4xPlaeo",
+        "header": false
+      },
+      {
+        "name": "Print any String without Semi-Colon",
+        "url": "https://www.youtube.com/watch?v=8QAw6Lg0v9E",
+        "header": false
+      },
+      {
+        "name": "Execute If Else Statements Simultaneously",
+        "url": "https://www.youtube.com/watch?v=fuwJcWzvU1U",
+        "header": false
+      }
+    ]
+  },
+  "meta": {},
+  "status": {
+    "message": "success",
+    "code": "001",
+    "status": "SUCCESS"
+  },
+  "nextAction": {}
+}

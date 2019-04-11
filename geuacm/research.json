@@ -2,10 +2,52 @@
   "payload": {
     "user": [
       {
+        "name": "Dr. Ankush Mittal",
+        "designation": "Machine Learning",
+        "image": "https://arora-yash.github.io/geuacm/research/ankush.jpg",
+        "email": "dr.ankush.mittal@gmail.com"
+      },
+      {
+        "name": "Dr. Devesh Pratap Singh",
+        "designation": "Networking, Soft Computing",
+        "image": "https://arora-yash.github.io/geuacm/research/devesh.jpg",
+        "email": "amu.santosh@gmail.com"
+      },
+      {
         "name": "Dr. Santosh Kumar",
         "designation": "Networking, Machine Learning",
         "image": "https://arora-yash.github.io/geuacm/research/santosh.jpg",
         "email": "amu.santosh@gmail.com"
+      },
+      {
+        "name": "Dr. Rahul Nijhawan",
+        "designation": "Computer Vision, Machine Learning",
+        "image": "https://arora-yash.github.io/geuacm/research/rahul.jpg",
+        "email": "rahulnijhawan2010@gmail.com"
+      },
+      {
+        "name": "Dr. Preeti Mishra",
+        "designation": "Cloud Security, Malware Detection",
+        "image": "https://arora-yash.github.io/geuacm/research/preeti.jpg",
+        "email": "amu.santosh@gmail.com"
+      },
+      {
+        "name": "Dr. Koteshwar Rao Jerripothula",
+        "designation": "Computer Vision",
+        "image": "https://arora-yash.github.io/geuacm/research/koteshwar.jpg",
+        "email": "krjimp@geu.ac.in"
+      },
+      {
+        "name": "Dr. Sachin Sharma",
+        "designation": "IOT, Cloud Computing & Security",
+        "image": "https://arora-yash.github.io/geuacm/research/sachin.jpg",
+        "email": "amu.santosh@gmail.com"
+      },
+      {
+        "name": "Dr. Mangey Ram",
+        "designation": "Applied Mathematics, Reliability Theory",
+        "image": "https://arora-yash.github.io/geuacm/research/mangey.jpg",
+        "email": "drmrswami@geu.ac.in"
       }
     ]
   },

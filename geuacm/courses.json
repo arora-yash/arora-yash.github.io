@@ -16,6 +16,40 @@
         "header": false
       },
       {
+        "name": "Latest Trends in Industry",
+        "header": true
+      },
+      {
+        "name": "Node Js Basic",
+        "url": "https://www.youtube.com/watch?v=65a5QQ3ZR2g&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR",
+        "header": false
+      },
+      {
+        "name": "Angular Js Basic",
+        "url": "https://www.youtube.com/watch?v=7MDRv3428X0&list=PL2dKqfImstaSCMkiBh3olWhQEfuh5L1KS",
+        "header": false
+      },
+      {
+        "name": "Vue Js",
+        "url": "https://www.youtube.com/watch?v=090CCd9kGsQ&list=PL2dKqfImstaTt-MMJlEQDQqIqyrM945FI",
+        "header": false
+      },
+      {
+        "name": "React Js",
+        "url": "https://www.youtube.com/watch?v=SGOFxK-28ns&list=PL2dKqfImstaSl8Hi6UrovwraEHvK2MNPt&index=1",
+        "header": false
+      },
+      {
+        "name": "Adonis Js",
+        "url": "https://www.youtube.com/watch?v=Q5m-mZletSY&list=PLh7CZsKpHR9pr6H_nm6atm7xWLhcxT-A-",
+        "header": false
+      },
+      {
+        "name": "MongoDB Basics",
+        "url": "https://university.mongodb.com/courses/M001/about",
+        "header": false
+      },
+      {
         "name": "Programming Languages",
         "header": true
       },
@@ -46,6 +80,21 @@
       {
         "name": "How to get Started",
         "url": "https://www.hackerearth.com/blog/artificial-intelligence/artificial-intelligence-101-how-to-get-started/",
+        "header": false
+      },
+      {
+        "name": "Tensorflow",
+        "url": "https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN",
+        "header": false
+      },
+      {
+        "name": "PyTorch",
+        "url": "https://www.youtube.com/watch?v=CNuI8OWsppg&t=17108s",
+        "header": false
+      },
+      {
+        "name": "Artificial Intelligence Course",
+        "url": "https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi",
         "header": false
       },
       {

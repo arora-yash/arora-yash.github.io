@@ -3,7 +3,7 @@
     "user": [
       {
         "name": "Dr. Ankush Mittal",
-        "designation": "Machine Learning",
+        "designation": "ML",
         "image": "https://arora-yash.github.io/geuacm/research/ankush.jpg",
         "email": "dr.ankush.mittal@gmail.com"
       },
@@ -14,21 +14,15 @@
         "email": "devesh.geu@gmail.com"
       },
       {
+        "name": "Dr. Mangey Ram",
+        "designation": "Applied Mathematics, Reliability Theory",
+        "image": "https://arora-yash.github.io/geuacm/research/mangey.jpg",
+        "email": "drmrswami@geu.ac.in"
+      },
+      {
         "name": "Dr. Santosh Kumar",
-        "designation": "Networking, Machine Learning",
+        "designation": "Networking, ML",
         "image": "https://arora-yash.github.io/geuacm/research/santosh.jpg",
-        "email": "amu.santosh@gmail.com"
-      },
-      {
-        "name": "Dr. Rahul Nijhawan",
-        "designation": "Computer Vision, Machine Learning",
-        "image": "https://arora-yash.github.io/geuacm/research/rahul.jpg",
-        "email": "rahulnijhawan2010@gmail.com"
-      },
-      {
-        "name": "Dr. Preeti Mishra",
-        "designation": "Cloud Security, Malware Detection",
-        "image": "https://arora-yash.github.io/geuacm/research/preeti.jpg",
         "email": "amu.santosh@gmail.com"
       },
       {
@@ -39,15 +33,21 @@
       },
       {
         "name": "Dr. Sachin Sharma",
-        "designation": "IOT, Cloud Computing & Security",
+        "designation": "IOT, ML, VR, AR, Cloud Computing & Security",
         "image": "https://arora-yash.github.io/geuacm/research/sachin.jpg",
-        "email": "amu.santosh@gmail.com"
+        "email": "sachin.cse@geu.ac.in"
       },
       {
-        "name": "Dr. Mangey Ram",
-        "designation": "Applied Mathematics, Reliability Theory",
-        "image": "https://arora-yash.github.io/geuacm/research/mangey.jpg",
-        "email": "drmrswami@geu.ac.in"
+        "name": "Dr. Preeti Mishra",
+        "designation": "IOT, Cloud Security, Malware Detection",
+        "image": "https://arora-yash.github.io/geuacm/research/preeti.jpg",
+        "email": "dr.preetimishranit@gmail.com"
+      },
+      {
+        "name": "Dr. Rahul Nijhawan",
+        "designation": "Computer Vision, ML, Image Processing",
+        "image": "https://arora-yash.github.io/geuacm/research/rahul.jpg",
+        "email": "rahulnijhawan2010@gmail.com"
       }
     ]
   },

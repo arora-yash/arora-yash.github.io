@@ -48,6 +48,12 @@
         "designation": "Computer Vision, ML, Image Processing",
         "image": "https://arora-yash.github.io/geuacm/research/rahul.jpg",
         "email": "rahulnijhawan2010@gmail.com"
+      },
+      {
+        "name": "Mr. Manish Sharma",
+        "designation": "Recommendation System",
+        "image": "https://arora-yash.github.io/geuacm/research/manish.jpg",
+        "email": "manishsharma.cse@geu.ac.in"
       }
     ]
   },

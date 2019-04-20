@@ -54,6 +54,12 @@
         "designation": "Recommendation System",
         "image": "https://arora-yash.github.io/geuacm/research/manish.jpg",
         "email": "manishsharma.cse@geu.ac.in"
+      },
+      {
+        "name": "Mr. Mahesh Mamchanda",
+        "designation": "ML, Web Mining",
+        "image": "https://arora-yash.github.io/geuacm/research/mahesh.png",
+        "email": "manchandamahesh@gmail.com"
       }
     ]
   },

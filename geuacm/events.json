@@ -2,22 +2,10 @@
   "payload": {
     "user": [
       {
-        "name": "Version Control & Git 2.0",
-        "description": "Workshop",
-        "image": "https://arora-yash.github.io/geuacm/events/1.png",
-        "url": "https://forms.gle/yaNE4vcwyqP5Dt3b9"
-      },
-      {
         "name": "International Model United Nations",
         "description": "MUN",
         "image": "https://arora-yash.github.io/geuacm/events/2.png",
         "url": "https://goo.gl/forms/YvleHvNPyffssIzI2"
-      },
-      {
-        "name": "Article and Blog Writing",
-        "description": "Paid Internship - Certificates & Stipend",
-        "image": "https://arora-yash.github.io/geuacm/events/3.png",
-        "url": "https://chat.whatsapp.com/I3CIqdbYkZ1D9Caie2rHu7"
       }
     ]
   },

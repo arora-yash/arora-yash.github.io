@@ -50,6 +50,18 @@
         "email": "rahulnijhawan2010@gmail.com"
       },
       {
+        "name": "Dr Ashok Kumar Sahoo",
+        "designation": "Pattern Recognition, Algorithms, Data Structures",
+        "image": "https://arora-yash.github.io/geuacm/research/ashok.jpg",
+        "email": "ashoksahoo2000@hotmail.com"
+      },
+      {
+        "name": "Vijay Singh",
+        "designation": "Recommender System, Data Science",
+        "image": "https://arora-yash.github.io/geuacm/research/vijay.jpg",
+        "email": "vijaysingh.cse@geu.ac.in"
+      },
+      {
         "name": "Mr. Manish Sharma",
         "designation": "Recommendation System",
         "image": "https://arora-yash.github.io/geuacm/research/manish.jpg",
@@ -60,6 +72,12 @@
         "designation": "Machine Learning",
         "image": "https://arora-yash.github.io/geuacm/research/parul.jpg",
         "email": "parulmadaan1@gmail.com"
+      },
+      {
+        "name": "Ankit Tomar",
+        "designation": "Cloud Computing",
+        "image": "https://arora-yash.github.io/geuacm/research/ankit.jpg",
+        "email": "ankittomar.cse@gmail.com"
       },
       {
         "name": "Mr. Mahesh Mamchanda",

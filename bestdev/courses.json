@@ -1,0 +1,549 @@
+{
+  "payload": {
+    "user": [
+      {
+        "id": "1",
+        "name" : "Learn JavaScript",
+        "links" : [
+          {
+            "id": "1",
+            "name" : "JavaScript For Cats by Max Ogden",
+            "url": "http://jsforcats.com/"
+          },
+          {
+            "id": "2",
+            "name" : "Announcing JavaScript30 — A Free 30 day Vanilla JS Coding Challenge",
+            "url": "https://wesbos.com/javascript30/"
+          },
+          {
+            "id": "3",
+            "name" : "Mozilla’s JavaScript Guide",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+          },
+          {
+            "id": "4",
+            "name" : "JavaScript Is Sexy",
+            "url": "http://javascriptissexy.com/how-to-learn-javascript-properly/"
+          },
+          {
+            "id": "5",
+            "name" : "JavaScript Garden",
+            "url": "http://bonsaiden.github.io/JavaScript-Garden/"
+          },
+          {
+            "id": "6",
+            "name" : "JavaScript Tutorial by W3schools",
+            "url": "https://www.w3schools.com/js/"
+          },
+          {
+            "id": "7",
+            "name" : "Khan Academy Computer Programming Course",
+            "url": "https://www.khanacademy.org/computing/computer-programming"
+          },
+          {
+            "id": "8",
+            "name" : "JavaScript Fundamentals",
+            "url": "https://channel9.msdn.com/Series/JavaScript-Fundamentals-Development-for-Absolute-Beginners"
+          },
+          {
+            "id": "9",
+            "name" : "Wikibooks JavaScript Guide",
+            "url": "https://en.wikibooks.org/wiki/JavaScript/Introduction"
+          },
+          {
+            "id": "10",
+            "name" : "The Modern Javascript Tutorial",
+            "url": "https://javascript.info/"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name" : "Learn Django",
+        "links" : [
+          {
+            "id": "1",
+            "name" : "Django Girls tutorial",
+            "url": "https://djangogirls.org/resources/"
+          },
+          {
+            "id": "2",
+            "name" : "Learn Django - An entry level and project-based course to learn Django",
+            "url": "https://overiq.com/django-1-11/"
+          },
+          {
+            "id": "3",
+            "name" : "Intuitive 20 video tutorial series for Django beginners",
+            "url": "https://www.youtube.com/watch?v=oT1A1KKf0SI"
+          },
+          {
+            "id": "4",
+            "name" : "Short beginner tutorial on building a basic blog site",
+            "url": "https://www.creativebloq.com/netmag/get-started-django-7132932"
+          },
+          {
+            "id": "5",
+            "name" : "Full Web Framework Python Django Tutorial",
+            "url": "https://www.youtube.com/playlist?list=PL385A53B00B8B158E&feature=plcp%2F"
+          },
+          {
+            "id": "6",
+            "name" : "Going Through Django Screencasts",
+            "url": "https://godjango.com/"
+          },
+          {
+            "id": "7",
+            "name" : "Django Djumpstart: Build a To-do List in 30 Minutes (2006)",
+            "url": "https://www.sitepoint.com/build-to-do-list-30-minutes/"
+          },
+          {
+            "id": "8",
+            "name" : "How to Tango with Django - A beginners guide to web development using Django 1.5.4 - 1.7",
+            "url": "http://www.tangowithdjango.com/"
+          },
+          {
+            "id": "9",
+            "name" : "A simple todo list",
+            "url": "http://netai-nayek.blogspot.com/2014/08/user-todo-list-application-or-sample_23.html"
+          },
+          {
+            "id": "10",
+            "name" : "Dockerizing a Python Django Web Application",
+            "url": "https://semaphoreci.com/community/tutorials/dockerizing-a-python-django-web-application"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name" : "Build Front-end libraries",
+        "links" : [
+          {
+            "id": "1",
+            "name" : "JavaScript: WTF is JSX (Let's Build a JSX Renderer)",
+            "url": "https://jasonformat.com/wtf-is-jsx/"
+          },
+          {
+            "id": "2",
+            "name" : "JavaScript: A DIY guide to build your own React",
+            "url": "https://github.com/pomber/didact"
+          },
+          {
+            "id": "3",
+            "name" : "JavaScript: Reverse Engineering React [video]",
+            "url": "https://vimeo.com/album/3930691"
+          },
+          {
+            "id": "4",
+            "name" : "JavaScript: Building React From Scratch [video]",
+            "url": "https://www.youtube.com/watch?v=_MAD4Oly9yg"
+          },
+          {
+            "id": "5",
+            "name" : "JavaScript: Gooact: React in 160 lines of JavaScript",
+            "url": "https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f"
+          },
+          {
+            "id": "6",
+            "name" : "JavaScript: Building Your Own React Clone in Five Easy Steps",
+            "url": "https://blog.javascripting.com/2016/10/05/building-your-own-react-clone-in-five-easy-steps/"
+          },
+          {
+            "id": "7",
+            "name" : "JavaScript: React Internals",
+            "url": "https://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/"
+          },
+          {
+            "id": "8",
+            "name" : "JavaScript: Learn how React Reconciler package works by building your own lightweight React DOM",
+            "url": "https://hackernoon.com/learn-you-some-custom-react-renderers-aed7164a4199?gi=33259011f35b"
+          },
+          {
+            "id": "9",
+            "name" : "JavaScript: Build your own Vuejs",
+            "url": "https://github.com/jsrebuild/build-your-own-vuejs"
+          },
+          {
+            "id": "10",
+            "name" : "JavaScript: Build Yourself a Redux",
+            "url": "https://zapier.com/engineering/how-to-build-redux/"
+          },
+          {
+            "id": "11",
+            "name" : "JavaScript: Let’s Write Redux!",
+            "url": "https://www.jamasoftware.com/blog/lets-write-redux/"
+          },
+          {
+            "id": "12",
+            "name" : "JavaScript: Redux: Implementing Store from Scratch [video]",
+            "url": "https://egghead.io/lessons/react-redux-implementing-store-from-scratch"
+          },
+          {
+            "id": "13",
+            "name" : "JavaScript: Build Your own Simplified AngularJS in 200 Lines of JavaScript",
+            "url": "https://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/"
+          },
+          {
+            "id": "14",
+            "name" : "JavaScript: Make Your Own AngularJS",
+            "url": "http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html"
+          },
+          {
+            "id": "15",
+            "name" : "JavaScript: How to write your own Virtual DOM",
+            "url": "https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060"
+          },
+          {
+            "id": "16",
+            "name" : "JavaScript: Building a frontend framework, from scratch, with components (templating, state, VDOM)",
+            "url": "https://mfrachet.github.io/create-frontend-framework/"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name" : "Build Command Line Tools",
+        "links" : [
+          {
+            "id": "1",
+            "name" : "C: Rewriting the cat command from scratch [video]",
+            "url": "https://learnto.computer/screencasts/bsd-cat"
+          },
+          {
+            "id": "2",
+            "name" : "Go: Visualize your local git contributions with Go",
+            "url": "https://flaviocopes.com/go-git-contributions/"
+          },
+          {
+            "id": "3",
+            "name" : "Go: Build a command line app with Go: lolcat",
+            "url": "https://flaviocopes.com/go-tutorial-lolcat/"
+          },
+          {
+            "id": "4",
+            "name" : "Go: Building a cli command with Go: cowsay",
+            "url": "https://flaviocopes.com/go-tutorial-cowsay/"
+          },
+          {
+            "id": "5",
+            "name" : "Go: Go CLI tutorial: fortune clone",
+            "url": "https://flaviocopes.com/go-tutorial-fortune/"
+          },
+          {
+            "id": "6",
+            "name" : "Nim: Writing a stow alternative to manage dotfiles",
+            "url": "https://xmonader.github.io/nimdays/day06_nistow.html"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name" : "Build Docker",
+        "links" : [
+          {
+            "id": "1",
+            "name" : "C: Linux containers in 500 lines of code",
+            "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html"
+          },
+          {
+            "id": "2",
+            "name" : "C++: Creating your own containers",
+            "url": "http://cesarvr.github.io/post/2018-05-22-create-containers/"
+          },
+          {
+            "id": "3",
+            "name" : "Go: Building a container from scratch in Go [video]",
+            "url": "https://www.youtube.com/watch?v=Utf-A4rODH8"
+          },
+          {
+            "id": "4",
+            "name" : "Python: A workshop on Linux containers: Rebuild",
+            "url": "https://github.com/Fewbytes/rubber-docker"
+          },
+          {
+            "id": "5",
+            "name" : "Python: A proof-of-concept imitation of Docker, written in 100% Python",
+            "url": "https://github.com/tonybaloney/mocker"
+          },
+          {
+            "id": "6",
+            "name" : "Shell: Docker implemented in around 100 lines of bash",
+            "url": "https://github.com/p8952/bocker"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "name" : "Build Programming Language",
+        "links" : [
+          {
+            "id": "1",
+            "name" : "C: Build Your Own Lisp: Learn C and build your own programming language in 1000 lines of code",
+            "url": "http://www.buildyourownlisp.com/"
+          },
+          {
+            "id": "2",
+            "name" : "Haskell: Write Your own Haskell",
+            "url": "http://dev.stephendiehl.com/fun/"
+          },
+          {
+            "id": "3",
+            "name" : "Java: Creating JVM Language",
+            "url": "http://jakubdziworski.github.io/categories.html#Enkel-ref"
+          },
+          {
+            "id": "4",
+            "name" : "Rust: Build a Language VM",
+            "url": "https://blog.subnetzero.io/post/building-language-vm-part-00/"
+          },
+          {
+            "id": "5",
+            "name" : "Swift: Building a LISP from scratch with Swift",
+            "url": "https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/"
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "name" : "Build Database",
+        "links" : [
+          {
+            "id": "1",
+            "name" : "C: Let's Build a Simple Database",
+            "url": "https://cstack.github.io/db_tutorial/"
+          },
+          {
+            "id": "2",
+            "name" : "C++: Implementing a Key-Value Store",
+            "url": "http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/"
+          },
+          {
+            "id": "3",
+            "name" : "C#: Build Your Own Database",
+            "url": "https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database"
+          },
+          {
+            "id": "4",
+            "name" : "Clojure: An Archaeology-Inspired Database",
+            "url": "http://aosabook.org/en/500L/an-archaeology-inspired-database.html"
+          },
+          {
+            "id": "5",
+            "name" : "Crystal: Why you should build your own NoSQL Database",
+            "url": "https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5"
+          },
+          {
+            "id": "6",
+            "name" : "JavaScript: Dagoba: an in-memory graph database",
+            "url": "http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html"
+          },
+          {
+            "id": "7",
+            "name" : "Python: Write your own miniature Redis with Python",
+            "url": "http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/"
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "name" : "Build Search Engine",
+        "links" : [
+          {
+            "id": "1",
+            "name" : "CSS: A search engine in CSS",
+            "url": "https://stories.algolia.com/a-search-engine-in-css-b5ec4e902e97"
+          },
+          {
+            "id": "2",
+            "name" : "Python: Building a search engine using Redis and redis-py",
+            "url": "http://www.dr-josiah.com/2010/07/building-search-engine-using-redis-and.html"
+          },
+          {
+            "id": "3",
+            "name" : "Python: Building a Vector Space Indexing Engine in Python",
+            "url": "https://boyter.org/2010/08/build-vector-space-search-engine-python/"
+          },
+          {
+            "id": "4",
+            "name" : "Python: Building A Python-Based Search Engine [video]",
+            "url": "https://www.youtube.com/watch?v=cY7pE7vX6MU"
+          },
+          {
+            "id": "5",
+            "name" : "Python: Making text search learn from feedback",
+            "url": "https://medium.com/filament-ai/making-text-search-learn-from-feedback-4fe210fd87b0"
+          },
+          {
+            "id": "6",
+            "name" : "Python: Finding Important Words in Text Using TF-IDF",
+            "url": "https://stevenloria.com/tf-idf/"
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "name" : "Build Shell",
+        "links" : [
+          {
+            "id": "1",
+            "name" : "C: Write a Shell in C",
+            "url": "https://brennan.io/2015/01/16/write-a-shell-in-c/"
+          },
+          {
+            "id": "2",
+            "name" : "C: Let's build a shell!",
+            "url": "https://github.com/kamalmarhubi/shell-workshop/"
+          },
+          {
+            "id": "3",
+            "name" : "C: Writing a UNIX Shell",
+            "url": "https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/"
+          },
+          {
+            "id": "4",
+            "name" : "C: Build Your Own Shell",
+            "url": "https://github.com/tokenrove/build-your-own-shell"
+          },
+          {
+            "id": "5",
+            "name" : "Go: Writing a simple shell in Go",
+            "url": "https://sj14.gitlab.io/post/2018-07-01-go-unix-shell/"
+          },
+          {
+            "id": "6",
+            "name" : "Ruby: A Unix Shell in Ruby",
+            "url": "https://www.jstorimer.com/blogs/workingwithcode/7766107-a-unix-shell-in-ruby"
+          },
+          {
+            "id": "7",
+            "name" : "Rust: Build Your Own Shell using Rust",
+            "url": "https://www.joshmcguigan.com/blog/build-your-own-shell-rust/"
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "name" : "Build Git",
+        "links" : [
+          {
+            "id": "1",
+            "name" : "Haskell: Reimplementing “git clone” in Haskell from the bottom up",
+            "url": "http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/"
+          },
+          {
+            "id": "2",
+            "name" : "JavaScript: Gitlet",
+            "url": "http://gitlet.maryrosecook.com/docs/gitlet.html"
+          },
+          {
+            "id": "3",
+            "name" : "JavaScript: Build GIT - Learn GIT",
+            "url": "https://kushagragour.in/blog/2014/01/build-git-learn-git/"
+          },
+          {
+            "id": "4",
+            "name" : "Python: Just enough of a Git client to create a repo, commit, and push itself to GitHub",
+            "url": "https://benhoyt.com/writings/pygit/"
+          },
+          {
+            "id": "5",
+            "name" : "Ruby: Rebuilding Git in Ruby",
+            "url": "https://robots.thoughtbot.com/rebuilding-git-in-ruby"
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "name" : "Build Operating System",
+        "links" : [
+          {
+            "id": "1",
+            "name" : "C: How to create an OS from scratch",
+            "url": "https://github.com/cfenollosa/os-tutorial"
+          },
+          {
+            "id": "2",
+            "name" : "C++: Write your own Operating System [video]",
+            "url": "https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M"
+          },
+          {
+            "id": "3",
+            "name" : "Rust: Writing an OS in Rust",
+            "url": "https://os.phil-opp.com/first-edition/"
+          },
+          {
+            "id": "4",
+            "name" : "Assembly: Writing a Tiny x86 Bootloader",
+            "url": "http://joebergeron.io/posts/post_two.html"
+          },
+          {
+            "id": "5",
+            "name" : "Assembly: Baking Pi – Operating Systems Development",
+            "url": "https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html"
+          },
+          {
+            "id": "6",
+            "name" : "C: Building a software and hardware stack for a simple computer from scratch [video]",
+            "url": "https://www.youtube.com/watch?v=ZjwvMcP3Nf0&list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX"
+          },
+          {
+            "id": "7",
+            "name" : "C: Operating Systems: From 0 to 1",
+            "url": "https://tuhdo.github.io/os01/"
+          },
+          {
+            "id": "8",
+            "name" : "C: The little book about OS development",
+            "url": "https://littleosbook.github.io/"
+          },
+          {
+            "id": "9",
+            "name" : "C: Roll your own toy UNIX-clone OS",
+            "url": "http://jamesmolloy.co.uk/tutorial_html/"
+          },
+          {
+            "id": "10",
+            "name" : "C: Kernel 101 – Let’s write a Kernel",
+            "url": "https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel"
+          },
+          {
+            "id": "11",
+            "name" : "C: Kernel 201 – Let’s write a Kernel with keyboard and screen support",
+            "url": "https://arjunsreedharan.org/post/99370248137/kernels-201-lets-write-a-kernel-with-keyboard"
+          },
+          {
+            "id": "12",
+            "name" : "C: Build a minimal multi-tasking kernel for ARM from scratch",
+            "url": "https://github.com/jserv/mini-arm-os"
+          },
+          {
+            "id": "13",
+            "name" : "C: Malloc tutorial",
+            "url": "https://danluu.com/malloc-tutorial/"
+          },
+          {
+            "id": "14",
+            "name" : "C: Hack the virtual memory",
+            "url": "https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/"
+          },
+          {
+            "id": "15",
+            "name" : "C: Learning operating system development using Linux kernel and Raspberry Pi",
+            "url": "https://github.com/s-matyukevich/raspberry-pi-os"
+          },
+          {
+            "id": "16",
+            "name" : "C++: Writing a Bootloader",
+            "url": "http://3zanders.co.uk/2017/10/13/writing-a-bootloader/"
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {},
+  "status": {
+    "message": "success",
+    "code": "001",
+    "status": "SUCCESS"
+  },
+  "nextAction": {}
+}

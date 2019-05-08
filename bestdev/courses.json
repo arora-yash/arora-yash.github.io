@@ -54,6 +54,11 @@
             "id": "10",
             "name" : "The Modern Javascript Tutorial",
             "url": "https://javascript.info/"
+          },
+          {
+            "id": "11",
+            "name" : "A Free 30 day Vanilla JS Coding Challenge",
+            "url": "https://wesbos.com/javascript30/"
           }
         ]
       },

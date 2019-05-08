@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bestdev/courses.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="530" column="69" selection-start-line="530" selection-start-column="69" selection-end-line="530" selection-end-column="69" />
+            <state relative-caret-position="69">
+              <caret line="58" column="8" lean-forward="true" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
               <folding>
                 <element signature="e#37#746#0" />
                 <element signature="e#754#1463#0" />
@@ -31,6 +31,7 @@
                 <element signature="e#12443#13655#0" />
                 <element signature="e#13772#14984#0" />
                 <element signature="e#15117#16330#0" />
+                <element signature="e#16183#17396#0" />
               </folding>
             </state>
           </provider>
@@ -66,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="67" />
     <option name="y" value="23" />
     <option name="width" value="1373" />
@@ -88,11 +89,6 @@
               <item name="arora-yash.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="arora-yash.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="bestdev" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arora-yash.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arora-yash.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="geuacm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -146,18 +142,17 @@
       <workItem from="1556041862775" duration="336000" />
       <workItem from="1556258144681" duration="2831000" />
       <workItem from="1556859073799" duration="781000" />
-      <workItem from="1556993672277" duration="2913000" />
+      <workItem from="1556993672277" duration="3201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12007000" />
+    <option name="totallyTimeSpent" value="12237000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="615" y="0" width="825" height="900" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -169,7 +164,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32923833" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32923833" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -231,8 +226,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bestdev/courses.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="530" column="69" selection-start-line="530" selection-start-column="69" selection-end-line="530" selection-end-column="69" />
+        <state relative-caret-position="69">
+          <caret line="58" column="8" lean-forward="true" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
           <folding>
             <element signature="e#37#746#0" />
             <element signature="e#754#1463#0" />
@@ -244,6 +239,7 @@
             <element signature="e#12443#13655#0" />
             <element signature="e#13772#14984#0" />
             <element signature="e#15117#16330#0" />
+            <element signature="e#16183#17396#0" />
           </folding>
         </state>
       </provider>

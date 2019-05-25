@@ -1,0 +1,608 @@
+{
+  "payload": {
+    "hostel": [
+      {
+        "id": "1",
+        "name" : "APJ Abdul Kalam",
+        "type" : "Boys Hostel",
+        "image" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+        "extra" : {
+            "intake" : "70",
+            "warden": "Mr. Jai",
+            "wphone" : "+911234567890",
+            "mess" : {
+              "photo" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+              "menu" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg"
+            },
+            "rooms" : [
+              {
+                "id" : "1",
+                "type" : "AC Rooms",
+                "room" : [
+                  {
+                    "id" : "1",
+                    "name" : "Two Seater",
+                    "photos" : [
+                      {
+                        "id" : "1",
+                        "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                        "price" : "130000",
+                        "security" : "10000"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id" : "2",
+                "type" : "Non AC Rooms",
+                "room" : [
+                  {
+                    "id" : "1",
+                    "name" : "Two Seater",
+                    "photos" : [
+                      {
+                        "id" : "1",
+                        "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                        "price" : "105000",
+                        "security" : "10000"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+      },
+      {
+        "id": "2",
+        "name" : "Chandra Shekhar Azad",
+        "type" : "Boys Hostel",
+        "image" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+        "extra" : {
+          "intake" : "151",
+          "warden": "Mr. Jai",
+          "wphone" : "+911234567890",
+          "mess" : {
+            "photo" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+            "menu" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg"
+          },
+          "rooms" : [
+            {
+              "id" : "1",
+              "type" : "Non AC Rooms",
+              "room" : [
+                {
+                  "id" : "1",
+                  "name" : "Three Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "88000",
+                      "security" : "5000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "3",
+        "name" : "Marina Hostel",
+        "type" : "Girls Hostel",
+        "image" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+        "extra" : {
+          "intake" : "120",
+          "warden": "Mr. Jai",
+          "phone" : "+911234567890",
+          "mess" : {
+            "photo" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+            "menu" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg"
+          },
+          "rooms" : [
+            {
+              "id" : "1",
+              "type" : "AC Rooms",
+              "room" : [
+                {
+                  "id" : "1",
+                  "name" : "Single Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "160000",
+                      "security" : "10000"
+                    }
+                  ]
+                },
+                {
+                  "id" : "2",
+                  "name" : "Two Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "138000",
+                      "security" : "10000"
+                    }
+                  ]
+                },
+                {
+                  "id" : "3",
+                  "name" : "Three Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "110000",
+                      "security" : "10000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id" : "2",
+              "type" : "Non AC Rooms",
+              "room" : [
+                {
+                  "id" : "1",
+                  "name" : "Two Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "118000",
+                      "security" : "10000"
+                    }
+                  ]
+                },
+                {
+                  "id" : "2",
+                  "name" : "Three Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "98000",
+                      "security" : "5000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "4",
+        "name" : "Laxmi Bai Hostel",
+        "type" : "Girls Hostel",
+        "image" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+        "extra" : {
+          "intake" : "144",
+          "warden": "Mr. Jai",
+          "phone" : "+911234567890",
+          "mess" : {
+            "photo" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+            "menu" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg"
+          },
+          "rooms" : [
+            {
+              "id" : "1",
+              "type" : "AC Rooms",
+              "room" : [
+                {
+                  "id" : "1",
+                  "name" : "Three Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "98000",
+                      "security" : "5000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id" : "2",
+              "type" : "Non AC Rooms",
+              "room" : [
+                {
+                  "id" : "1",
+                  "name" : "Three Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "88000",
+                      "security" : "5000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "5",
+        "name" : "Maha Rana Pratap",
+        "type" : "Boys Hostel",
+        "image" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+        "extra" : {
+          "intake" : "126",
+          "warden": "Mr. Jai",
+          "phone" : "+911234567890",
+          "mess" : {
+            "photo" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+            "menu" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg"
+          },
+          "rooms" : [
+            {
+              "id" : "1",
+              "type" : "Non AC Rooms",
+              "room" : [
+                {
+                  "id" : "1",
+                  "name" : "Two Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "85000",
+                      "security" : "5000"
+                    }
+                  ]
+                },
+                {
+                  "id" : "2",
+                  "name" : "Three Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "78000",
+                      "security" : "5000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "6",
+        "name" : "Netaji Subhash Chandra Boss",
+        "type" : "Boys Hostel",
+        "image" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+        "extra" : {
+          "intake" : "320",
+          "warden": "Mr. Jai",
+          "phone" : "+911234567890",
+          "mess" : {
+            "photo" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+            "menu" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg"
+          },
+          "rooms" : [
+            {
+              "id" : "1",
+              "type" : "Non AC Rooms",
+              "room" : [
+                {
+                  "id" : "1",
+                  "name" : "Two Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "93000",
+                      "security" : "5000"
+                    }
+                  ]
+                },
+                {
+                  "id" : "2",
+                  "name" : "Three Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "88000",
+                      "security" : "5000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "7",
+        "name" : "Priyadarshani Hostel",
+        "type" : "Girls Hostel",
+        "image" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+        "extra" : {
+          "intake" : "240",
+          "warden": "Mr. Jai",
+          "phone" : "+911234567890",
+          "mess" : {
+            "photo" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+            "menu" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg"
+          },
+          "rooms" : [
+            {
+              "id" : "1",
+              "type" : "AC Rooms",
+              "room" : [
+                {
+                  "id" : "1",
+                  "name" : "Three Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "98000",
+                      "security" : "5000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id" : "2",
+              "type" : "Non AC Rooms",
+              "room" : [
+                {
+                  "id" : "1",
+                  "name" : "Three Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "88000",
+                      "security" : "5000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "8",
+        "name" : "Sai Hostel",
+        "type" : "Boys & Girls Hostel",
+        "image" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+        "extra" : {
+          "intake" : "588",
+          "warden": "Mr. Jai",
+          "phone" : "+911234567890",
+          "mess" : {
+            "photo" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+            "menu" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg"
+          },
+          "rooms" : [
+            {
+              "id" : "1",
+              "type" : "AC Rooms",
+              "room" : [
+                {
+                  "id" : "1",
+                  "name" : "Three Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "98000",
+                      "security" : "5000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id" : "2",
+              "type" : "Non AC Rooms",
+              "room" : [
+                {
+                  "id" : "1",
+                  "name" : "Three Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "88000",
+                      "security" : "5000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "9",
+        "name" : "Sardar Bhagat Singh",
+        "type" : "Boys Hostel",
+        "image" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+        "extra" : {
+          "intake" : "120",
+          "warden": "Mr. Jai",
+          "phone" : "+911234567890",
+          "mess" : {
+            "photo" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+            "menu" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg"
+          },
+          "rooms" : [
+            {
+              "id" : "1",
+              "type" : "AC Rooms",
+              "room" : [
+                {
+                  "id" : "1",
+                  "name" : "Two Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "140000",
+                      "security" : "10000"
+                    }
+                  ]
+                },
+                {
+                  "id" : "2",
+                  "name" : "Three Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "120000",
+                      "security" : "10000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id" : "2",
+              "type" : "Non AC Rooms",
+              "room" : [
+                {
+                  "id" : "1",
+                  "name" : "Two Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "115000",
+                      "security" : "10000"
+                    }
+                  ]
+                },
+                {
+                  "id" : "2",
+                  "name" : "Three Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "105000",
+                      "security" : "10000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "10",
+        "name" : "Sardar Patel Hostel",
+        "type" : "Boys Hostel",
+        "image" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+        "extra" : {
+          "intake" : "78",
+          "warden": "Mr. Jai",
+          "wphone" : "+911234567890",
+          "mess" : {
+            "photo" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+            "menu" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg"
+          },
+          "rooms" : [
+            {
+              "id" : "1",
+              "type" : "Non AC Rooms",
+              "room" : [
+                {
+                  "id" : "1",
+                  "name" : "Three Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "88000",
+                      "security" : "5000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "11",
+        "name" : "Sarojani Hostel",
+        "type" : "Girls Hostel",
+        "image" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+        "extra" : {
+          "intake" : "226",
+          "warden": "Mr. Jai",
+          "phone" : "+911234567890",
+          "mess" : {
+            "photo" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+            "menu" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg"
+          },
+          "rooms" : [
+            {
+              "id" : "1",
+              "type" : "AC Rooms",
+              "room" : [
+                {
+                  "id" : "1",
+                  "name" : "Three Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "98000",
+                      "security" : "5000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id" : "2",
+              "type" : "Non AC Rooms",
+              "room" : [
+                {
+                  "id" : "1",
+                  "name" : "Three Seater",
+                  "photos" : [
+                    {
+                      "id" : "1",
+                      "url" : "https://arora-yash.github.io/geuhostel/hostels/sai/hostel.jpg",
+                      "price" : "88000",
+                      "security" : "5000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "meta": {},
+  "status": {
+    "message": "success",
+    "code": "001",
+    "status": "SUCCESS"
+  },
+  "nextAction": {}
+}

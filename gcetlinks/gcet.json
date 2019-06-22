@@ -1,0 +1,112 @@
+{
+  "payload": {
+    "user": [
+      {
+        "id": "1",
+        "name" : "Enthiran",
+        "extra": {
+          "description" : "Technology Club determined to bring out the practical aspect of a budding engineer in Galgotias",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Pushpit Mathur",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Shivang Kumar Agrahari",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Pushpit Mathur",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Shivang Kumar Agrahari",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Pushpit Mathur",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://goo.gl/forms/YvleHvNPyffssIzI2"
+            },
+            {
+              "id" : "2",
+              "name": "Pushpit Mathur",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://goo.gl/forms/YvleHvNPyffssIzI2"
+            }
+          ]
+        }
+      },
+      {
+        "id": "2",
+        "name" : "Cam Circle"
+      },
+      {
+        "id": "3",
+        "name" : "Lingo Freaks"
+      },
+      {
+        "id": "4",
+        "name" : "Loop"
+      },
+      {
+        "id": "5",
+        "name" : "Management Club"
+      },
+      {
+        "id": "6",
+        "name" : "Marketing Club"
+      },
+      {
+        "id": "7",
+        "name" : "Music Club"
+      },
+      {
+        "id": "8",
+        "name" : "Sponsorship Club"
+      },
+      {
+        "id": "9",
+        "name" : "Loop"
+      },
+      {
+        "id": "10",
+        "name" : "Management Club"
+      },
+      {
+        "id": "11",
+        "name" : "Marketing Club"
+      },
+      {
+        "id": "12",
+        "name" : "Music Club"
+      },
+      {
+        "id": "13",
+        "name" : "Sponsorship Club"
+      }
+    ]
+  },
+  "meta": {},
+  "status": {
+    "message": "success",
+    "code": "001",
+    "status": "SUCCESS"
+  },
+  "nextAction": {}
+}

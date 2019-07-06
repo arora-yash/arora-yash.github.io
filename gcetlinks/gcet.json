@@ -5,18 +5,18 @@
         "id": "1",
         "name" : "Cam Circle",
         "extra": {
-          "description" : "",
+          "description" : "We are the photo enthusiasts of Galgotias University. Stay tuned for events details and photographs.",
           "head" : [
             {
               "id" : "1",
               "name": "Aditya Prakash",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/adityaprakash.jpg",
               "phone" : "+919667772365"
             },
             {
               "id" : "2",
               "name": "Aman Sharma",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/amansharma.jpg",
               "phone" : "+917408499461"
             }
           ],
@@ -25,14 +25,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -40,7 +40,7 @@
             {
               "id" : "1",
               "name": "Event name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/events/default.jpg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }
@@ -51,18 +51,18 @@
         "id": "2",
         "name" : "Chitrashala",
         "extra": {
-          "description" : "",
+          "description" : "It is the Fine Arts Club of Galgotias College.",
           "head" : [
             {
               "id" : "1",
               "name": "Durga Yaday",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Honey Singh",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -71,14 +71,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -86,7 +86,7 @@
             {
               "id" : "1",
               "name": "Event Name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/events/default.jpg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }
@@ -97,18 +97,18 @@
         "id": "3",
         "name" : "Creative Club",
         "extra": {
-          "description" : "",
+          "description" : "The Creative Club of Galgotias.",
           "head" : [
             {
               "id" : "1",
               "name": "Vivek Chauhan",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/vivekchauhan.jpg",
               "phone" : "+917455954906"
             },
             {
               "id" : "2",
               "name": "Harsh Tripathi",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/harshtripathi.jpg",
               "phone" : "+918004147584"
             }
           ],
@@ -117,14 +117,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -132,7 +132,7 @@
             {
               "id" : "1",
               "name": "Event Name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/events/default.jpg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }
@@ -143,18 +143,18 @@
         "id": "4",
         "name" : "FRAG",
         "extra": {
-          "description" : "",
+          "description" : "The official Gaming Club at Galgotias.",
           "head" : [
             {
               "id" : "1",
               "name": "Katyaini Raj",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/katyainiraj.jpg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Akash Priyadarshi",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/akashpriyadarshi.jpg",
               "phone" : "+91"
             }
           ],
@@ -163,14 +163,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -178,7 +178,7 @@
             {
               "id" : "1",
               "name": "Event Name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/events/default.jpg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }
@@ -189,12 +189,12 @@
         "id": "5",
         "name" : "Guardian",
         "extra": {
-          "description" : "",
+          "description" : "It is the official Environment Club at Galgotias.",
           "head" : [
             {
               "id" : "1",
               "name": "Priya Singh",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -203,14 +203,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -218,7 +218,7 @@
             {
               "id" : "1",
               "name": "Event Name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }
@@ -229,18 +229,18 @@
         "id": "6",
         "name" : "Kalakriti",
         "extra": {
-          "description" : "",
+          "description" : "We at Kalakriti try our best to put forward a mirror in front of the society through drama so that the society can see its bitter image through us.",
           "head" : [
             {
               "id" : "1",
               "name": "Manu Prince Kumar",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Pranjal Singh",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/pranjalsingh.jpg",
               "phone" : "+91"
             }
           ],
@@ -249,14 +249,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -264,7 +264,7 @@
             {
               "id" : "1",
               "name": "Event Name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/events/default.jpg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }
@@ -275,24 +275,24 @@
         "id": "7",
         "name" : "Lingo Freaks",
         "extra": {
-          "description" : "",
+          "description" : "We seek to impart literary understanding to students, to fuel the passionate writers, to give wings to the poets.",
           "head" : [
             {
               "id" : "1",
               "name": "Astha Shakya",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Saurabh Pandey",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/saurabhpandey.jpg",
               "phone" : "+91"
             },
             {
               "id" : "3",
               "name": "Parul Gupta",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -301,14 +301,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -316,7 +316,7 @@
             {
               "id" : "1",
               "name": "Event Name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/events/default.jpg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }
@@ -327,12 +327,12 @@
         "id": "8",
         "name" : "Loop",
         "extra": {
-          "description" : "",
+          "description" : "\"Coding simplified\", We are the programmers at Galgotias.",
           "head" : [
             {
               "id" : "1",
               "name": "Arpit Trivedi",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/arpittrivedi.jpeg",
               "phone" : "+918960767360"
             }
           ],
@@ -341,14 +341,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -356,7 +356,7 @@
             {
               "id" : "1",
               "name": "Event Name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/events/default.jpg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }
@@ -367,18 +367,18 @@
         "id": "9",
         "name" : "Management Club",
         "extra": {
-          "description" : "",
+          "description" : "It is the Management Club at Galgotias.",
           "head" : [
             {
               "id" : "1",
               "name": "Utkarsh Mishra",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/utkarshmishra.jpg",
               "phone" : "+917619867351"
             },
             {
               "id" : "2",
               "name": "Vishwajeet Singh",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/vishwajeetsingh.jpg",
               "phone" : "+918057473338"
             }
           ],
@@ -387,14 +387,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -402,7 +402,7 @@
             {
               "id" : "1",
               "name": "Event Name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/default.jpg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }
@@ -413,18 +413,18 @@
         "id": "10",
         "name" : "Marketing Club",
         "extra": {
-          "description" : "",
+          "description" : "It is the Marketing Club at Galgotias.",
           "head" : [
             {
               "id" : "1",
               "name": "Adarsh Kashyap",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Sunidhi Gupta",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/sunidhigupta.jpg",
               "phone" : "+917525803244"
             }
           ],
@@ -433,14 +433,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -448,7 +448,7 @@
             {
               "id" : "1",
               "name": "Event Name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/events/default.jpg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }
@@ -459,18 +459,18 @@
         "id": "11",
         "name" : "Music Club",
         "extra": {
-          "description" : "",
+          "description" : "Music Club at galgotias.",
           "head" : [
             {
               "id" : "1",
               "name": "Ankit Rai",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/ankitrai.jpg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Chitransh Joshi",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -479,14 +479,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -494,7 +494,7 @@
             {
               "id" : "1",
               "name": "Event Name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/events/default.jpg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }
@@ -503,14 +503,14 @@
       },
       {
         "id": "12",
-        "name" : "Quiz",
+        "name" : "Xquizite",
         "extra": {
-          "description" : "",
+          "description" : "Club of staunch cerebral who share accomplishments of lexical, political, geographical and varied other fields.",
           "head" : [
             {
               "id" : "1",
               "name": "Srijan Barnwal",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/srijanbarnwal.jpg",
               "phone" : "+918318849732"
             }
           ],
@@ -519,14 +519,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -534,7 +534,7 @@
             {
               "id" : "1",
               "name": "Event Name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/events/default.jpg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }
@@ -545,18 +545,18 @@
         "id": "13",
         "name" : "Rotaract Club",
         "extra": {
-          "description" : "",
+          "description" : "Rotaract Club at Galgotias aims to make our society better and be the change that people wish to witness. ",
           "head" : [
             {
               "id" : "1",
               "name": "Asraj Ali",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Harsha Rani",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/harsharani.jpg",
               "phone" : "+91"
             }
           ],
@@ -565,14 +565,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -580,7 +580,7 @@
             {
               "id" : "1",
               "name": "Event Name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/events/default.jpg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }
@@ -591,18 +591,18 @@
         "id": "14",
         "name" : "SAE",
         "extra": {
-          "description" : "",
+          "description" : "Society of Automotive Engineers(SAE). We are SAE Galgotias collegiate chapter, founded in 2011 by students of BTech(ME).",
           "head" : [
             {
               "id" : "1",
               "name": "Nishant Yadav",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/nishantyadav.jpg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Saurabh Kuntal",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/saurabhkuntal.jpg",
               "phone" : "+91"
             }
           ],
@@ -611,14 +611,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -626,7 +626,7 @@
             {
               "id" : "1",
               "name": "Event Name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/events/default.jpg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }
@@ -637,12 +637,12 @@
         "id": "15",
         "name" : "Scintillations",
         "extra": {
-          "description" : "",
+          "description" : "Fashion club at Galgotias.",
           "head" : [
             {
               "id" : "1",
               "name": "Vikas Chaurasia",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/vikaschaur.jpg",
               "phone" : "+91"
             }
           ],
@@ -651,14 +651,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -666,7 +666,7 @@
             {
               "id" : "1",
               "name": "Event Name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/events/default.jpg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }
@@ -677,12 +677,12 @@
         "id": "16",
         "name" : "Self Defence",
         "extra": {
-          "description" : "",
+          "description" : "The Self Defence training club at Galgotias.",
           "head" : [
             {
               "id" : "1",
               "name": "Mohammad Shadaab",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -691,14 +691,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -706,7 +706,7 @@
             {
               "id" : "1",
               "name": "Event Name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/events/default.jpg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }
@@ -717,18 +717,18 @@
         "id": "17",
         "name" : "Sponsorship Club",
         "extra": {
-          "description" : "",
+          "description" : "The club is responsible for bringing all the sponsors for all the major events of GCET.",
           "head" : [
             {
               "id" : "1",
               "name": "Saksham Agarwal",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/sakshamagarwal.jpg",
               "phone" : "+917617473592"
             },
             {
               "id" : "2",
               "name": "Sanchit Agarwal",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/sanchitagarwal.jpg",
               "phone" : "+918791730199"
             }
           ],
@@ -737,14 +737,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -752,7 +752,7 @@
             {
               "id" : "1",
               "name": "Event Name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/events/default.jpg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }
@@ -763,18 +763,18 @@
         "id": "18",
         "name" : "Studio D",
         "extra": {
-          "description" : "",
+          "description" : "Official Dance Club of Galgotias Institute. We aim at producing highly efficient performers and give tremendous opportunities to students to excel in dance.",
           "head" : [
             {
               "id" : "1",
               "name": "Shreya Dixit",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/shreyadixit.jpg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Sanskriti Sharma",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/sanskritisharma.jpg",
               "phone" : "+91"
             }
           ],
@@ -783,14 +783,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -798,7 +798,7 @@
             {
               "id" : "1",
               "name": "Event Name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/events/default.jpg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }
@@ -809,18 +809,18 @@
         "id": "19",
         "name" : "Team Enthiran",
         "extra": {
-          "description" : "",
+          "description" : "This is the club determined to bring out the practical aspect of a budding engineer in Galgotias.",
           "head" : [
             {
               "id" : "1",
               "name": "Shivang Kumar Agrahari",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Pushpit Mathur",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/pushpitmathur.jpg",
               "phone" : "+918874892424"
             }
           ],
@@ -829,14 +829,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -844,7 +844,7 @@
             {
               "id" : "1",
               "name": "Event Name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/events/default.jpg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }
@@ -855,18 +855,18 @@
         "id": "20",
         "name" : "Team PR",
         "extra": {
-          "description" : "",
+          "description" : "Public Realtions(PR),our mission is to support CORE team in smooth functioning of various activities and events going on in our institution and build healthy relations with other prestigious institutions.",
           "head" : [
             {
               "id" : "1",
               "name": "Devansh Agarwal",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Himanshu Upadhyaya",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/heads/himanshuupadhyay.jpg",
               "phone" : "+919473535965"
             }
           ],
@@ -875,14 +875,14 @@
               "id" : "1",
               "name": "Member 1",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             },
             {
               "id" : "2",
               "name": "Member 2",
               "post": "",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/members/default.jpeg",
               "phone" : "+91"
             }
           ],
@@ -890,7 +890,7 @@
             {
               "id" : "1",
               "name": "Event Name",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "image" : "https://arora-yash.github.io/gcetlinks/events/default.jpg",
               "date" : "12/12/12",
               "link" : "https://www.google.com"
             }

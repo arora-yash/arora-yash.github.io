@@ -3,33 +3,35 @@
     "user": [
       {
         "id": "1",
-        "name" : "Enthiran",
+        "name" : "Cam Circle",
         "extra": {
-          "description" : "Technology Club determined to bring out the practical aspect of a budding engineer in Galgotias",
+          "description" : "",
           "head" : [
             {
               "id" : "1",
-              "name": "Pushpit Mathur",
+              "name": "Aditya Prakash",
               "image" : "https://arora-yash.github.io/geuacm/events/2.png",
-              "phone" : "+91"
+              "phone" : "+919667772365"
             },
             {
               "id" : "2",
-              "name": "Shivang Kumar Agrahari",
+              "name": "Aman Sharma",
               "image" : "https://arora-yash.github.io/geuacm/events/2.png",
-              "phone" : "+91"
+              "phone" : "+917408499461"
             }
           ],
           "members" : [
             {
               "id" : "1",
-              "name": "Pushpit Mathur",
+              "name": "Member 1",
+              "post": "",
               "image" : "https://arora-yash.github.io/geuacm/events/2.png",
               "phone" : "+91"
             },
             {
               "id" : "2",
-              "name": "Shivang Kumar Agrahari",
+              "name": "Member 2",
+              "post": "",
               "image" : "https://arora-yash.github.io/geuacm/events/2.png",
               "phone" : "+91"
             }
@@ -37,68 +39,863 @@
           "events" : [
             {
               "id" : "1",
-              "name": "Pushpit Mathur",
+              "name": "Event name",
               "image" : "https://arora-yash.github.io/geuacm/events/2.png",
               "date" : "12/12/12",
-              "link" : "https://goo.gl/forms/YvleHvNPyffssIzI2"
-            },
-            {
-              "id" : "2",
-              "name": "Pushpit Mathur",
-              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
-              "date" : "12/12/12",
-              "link" : "https://goo.gl/forms/YvleHvNPyffssIzI2"
+              "link" : "https://www.google.com"
             }
           ]
         }
       },
       {
         "id": "2",
-        "name" : "Cam Circle"
+        "name" : "Chitrashala",
+        "extra": {
+          "description" : "",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Durga Yaday",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Honey Singh",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Member 1",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Member 2",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Event Name",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://www.google.com"
+            }
+          ]
+        }
       },
       {
         "id": "3",
-        "name" : "Lingo Freaks"
+        "name" : "Creative Club",
+        "extra": {
+          "description" : "",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Vivek Chauhan",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+917455954906"
+            },
+            {
+              "id" : "2",
+              "name": "Harsh Tripathi",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+918004147584"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Member 1",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Member 2",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Event Name",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://www.google.com"
+            }
+          ]
+        }
       },
       {
         "id": "4",
-        "name" : "Loop"
+        "name" : "FRAG",
+        "extra": {
+          "description" : "",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Katyaini Raj",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Akash Priyadarshi",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Member 1",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Member 2",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Event Name",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://www.google.com"
+            }
+          ]
+        }
       },
       {
         "id": "5",
-        "name" : "Management Club"
+        "name" : "Guardian",
+        "extra": {
+          "description" : "",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Priya Singh",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Member 1",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Member 2",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Event Name",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://www.google.com"
+            }
+          ]
+        }
       },
       {
         "id": "6",
-        "name" : "Marketing Club"
+        "name" : "Kalakriti",
+        "extra": {
+          "description" : "",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Manu Prince Kumar",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Pranjal Singh",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Member 1",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Member 2",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Event Name",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://www.google.com"
+            }
+          ]
+        }
       },
       {
         "id": "7",
-        "name" : "Music Club"
+        "name" : "Lingo Freaks",
+        "extra": {
+          "description" : "",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Astha Shakya",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Saurabh Pandey",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "3",
+              "name": "Parul Gupta",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Member 1",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Member 2",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Event Name",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://www.google.com"
+            }
+          ]
+        }
       },
       {
         "id": "8",
-        "name" : "Sponsorship Club"
+        "name" : "Loop",
+        "extra": {
+          "description" : "",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Arpit Trivedi",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+918960767360"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Member 1",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Member 2",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Event Name",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://www.google.com"
+            }
+          ]
+        }
       },
       {
         "id": "9",
-        "name" : "Loop"
+        "name" : "Management Club",
+        "extra": {
+          "description" : "",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Utkarsh Mishra",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+917619867351"
+            },
+            {
+              "id" : "2",
+              "name": "Vishwajeet Singh",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+918057473338"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Member 1",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Member 2",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Event Name",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://www.google.com"
+            }
+          ]
+        }
       },
       {
         "id": "10",
-        "name" : "Management Club"
+        "name" : "Marketing Club",
+        "extra": {
+          "description" : "",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Adarsh Kashyap",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Sunidhi Gupta",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+917525803244"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Member 1",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Member 2",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Event Name",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://www.google.com"
+            }
+          ]
+        }
       },
       {
         "id": "11",
-        "name" : "Marketing Club"
+        "name" : "Music Club",
+        "extra": {
+          "description" : "",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Ankit Rai",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Chitransh Joshi",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Member 1",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Member 2",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Event Name",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://www.google.com"
+            }
+          ]
+        }
       },
       {
         "id": "12",
-        "name" : "Music Club"
+        "name" : "Quiz",
+        "extra": {
+          "description" : "",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Srijan Barnwal",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+918318849732"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Member 1",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Member 2",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Event Name",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://www.google.com"
+            }
+          ]
+        }
       },
       {
         "id": "13",
-        "name" : "Sponsorship Club"
+        "name" : "Rotaract Club",
+        "extra": {
+          "description" : "",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Asraj Ali",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Harsha Rani",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Member 1",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Member 2",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Event Name",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://www.google.com"
+            }
+          ]
+        }
+      },
+      {
+        "id": "14",
+        "name" : "SAE",
+        "extra": {
+          "description" : "",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Nishant Yadav",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Saurabh Kuntal",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Member 1",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Member 2",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Event Name",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://www.google.com"
+            }
+          ]
+        }
+      },
+      {
+        "id": "15",
+        "name" : "Scintillations",
+        "extra": {
+          "description" : "",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Vikas Chaurasia",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Member 1",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Member 2",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Event Name",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://www.google.com"
+            }
+          ]
+        }
+      },
+      {
+        "id": "16",
+        "name" : "Self Defence",
+        "extra": {
+          "description" : "",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Mohammad Shadaab",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Member 1",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Member 2",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Event Name",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://www.google.com"
+            }
+          ]
+        }
+      },
+      {
+        "id": "17",
+        "name" : "Sponsorship Club",
+        "extra": {
+          "description" : "",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Saksham Agarwal",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+917617473592"
+            },
+            {
+              "id" : "2",
+              "name": "Sanchit Agarwal",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+918791730199"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Member 1",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Member 2",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Event Name",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://www.google.com"
+            }
+          ]
+        }
+      },
+      {
+        "id": "18",
+        "name" : "Studio D",
+        "extra": {
+          "description" : "",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Shreya Dixit",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Sanskriti Sharma",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Member 1",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Member 2",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Event Name",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://www.google.com"
+            }
+          ]
+        }
+      },
+      {
+        "id": "19",
+        "name" : "Team Enthiran",
+        "extra": {
+          "description" : "",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Shivang Kumar Agrahari",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Pushpit Mathur",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+918874892424"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Member 1",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Member 2",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Event Name",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://www.google.com"
+            }
+          ]
+        }
+      },
+      {
+        "id": "20",
+        "name" : "Team PR",
+        "extra": {
+          "description" : "",
+          "head" : [
+            {
+              "id" : "1",
+              "name": "Devansh Agarwal",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Himanshu Upadhyaya",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+919473535965"
+            }
+          ],
+          "members" : [
+            {
+              "id" : "1",
+              "name": "Member 1",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            },
+            {
+              "id" : "2",
+              "name": "Member 2",
+              "post": "",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "phone" : "+91"
+            }
+          ],
+          "events" : [
+            {
+              "id" : "1",
+              "name": "Event Name",
+              "image" : "https://arora-yash.github.io/geuacm/events/2.png",
+              "date" : "12/12/12",
+              "link" : "https://www.google.com"
+            }
+          ]
+        }
       }
     ]
   },

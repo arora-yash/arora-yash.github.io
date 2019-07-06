@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb2ec25b-73c4-4dca-9dc9-caffac64bd3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gcetlinks/gcet.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gcetlinks/gcet.json" beforeDir="false" afterPath="$PROJECT_DIR$/gcetlinks/gcet.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,20 +16,81 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gcetlinks/gcet.json">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bestdev/courses.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1117">
-              <caret line="49" column="62" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="62" />
+            <state relative-caret-position="12650">
+              <caret line="550" column="23" selection-start-line="550" selection-start-column="23" selection-end-line="550" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/geuacm/events.json">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gcetlinks/gcet.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="54" />
+            <state relative-caret-position="211">
+              <caret line="723" column="38" selection-start-line="723" selection-start-column="38" selection-end-line="723" selection-end-column="38" />
+              <folding>
+                <element signature="e#37#1711#0" />
+                <element signature="e#696#1118#0" />
+                <element signature="e#1141#1693#0" />
+                <element signature="e#1719#1777#0" />
+                <element signature="e#1976#2450#0" />
+                <element signature="e#2473#2739#0" />
+                <element signature="e#1785#1845#0" />
+                <element signature="e#3249#3703#0" />
+                <element signature="e#3726#3988#0" />
+                <element signature="e#1853#1905#0" />
+                <element signature="e#4611#5065#0" />
+                <element signature="e#5088#5350#0" />
+                <element signature="e#1913#1976#0" />
+                <element signature="e#5922#6376#0" />
+                <element signature="e#6399#6661#0" />
+                <element signature="e#1984#2046#0" />
+                <element signature="e#7038#7492#0" />
+                <element signature="e#7515#7777#0" />
+                <element signature="e#2054#2112#0" />
+                <element signature="e#8359#8813#0" />
+                <element signature="e#8836#9098#0" />
+                <element signature="e#2120#2184#0" />
+                <element signature="e#10080#10534#0" />
+                <element signature="e#10557#10819#0" />
+                <element signature="e#2192#2244#0" />
+                <element signature="e#10999#11453#0" />
+                <element signature="e#11476#11738#0" />
+                <element signature="e#2252#2316#0" />
+                <element signature="e#12381#12835#0" />
+                <element signature="e#12858#13120#0" />
+                <element signature="e#2324#2387#0" />
+                <element signature="e#13704#14158#0" />
+                <element signature="e#14181#14443#0" />
+                <element signature="e#2395#2454#0" />
+                <element signature="e#15007#15461#0" />
+                <element signature="e#15484#15746#0" />
+                <element signature="e#2462#2527#0" />
+                <element signature="e#16140#16594#0" />
+                <element signature="e#16617#16879#0" />
+                <element signature="e#16898#18412#0" />
+                <element signature="e#17654#18108#0" />
+                <element signature="e#18131#18393#0" />
+                <element signature="e#18420#19538#0" />
+                <element signature="e#18779#19233#0" />
+                <element signature="e#19256#19518#0" />
+                <element signature="e#19546#20889#0" />
+                <element signature="e#20129#20583#0" />
+                <element signature="e#20606#20868#0" />
+                <element signature="e#21466#21920#0" />
+                <element signature="e#21943#22205#0" />
+                <element signature="e#22234#23546#0" />
+                <element signature="e#22786#23240#0" />
+                <element signature="e#23263#23525#0" />
+                <element signature="e#23554#24673#0" />
+                <element signature="e#23913#24367#0" />
+                <element signature="e#24390#24652#0" />
+                <element signature="e#24681#25992#0" />
+                <element signature="e#25232#25686#0" />
+                <element signature="e#25709#25971#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,6 +139,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,22 +157,10 @@
               <item name="arora-yash.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="gcetlinks" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="arora-yash.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arora-yash.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="geuacm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arora-yash.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arora-yash.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="geuacm" type="462c0819:PsiDirectoryNode" />
-              <item name="events" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -161,18 +211,19 @@
       <workItem from="1556993672277" duration="3201000" />
       <workItem from="1557341061447" duration="174000" />
       <workItem from="1558780258033" duration="2601000" />
-      <workItem from="1561193787513" duration="2238000" />
+      <workItem from="1561193787513" duration="3406000" />
+      <workItem from="1562412402624" duration="1263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17250000" />
+    <option name="totallyTimeSpent" value="19681000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -184,7 +235,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32923833" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32923833" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -234,16 +285,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bestdev/courses.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12650">
-          <caret line="550" column="23" selection-start-line="550" selection-start-column="23" selection-end-line="550" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gcetlinks/gcet.json.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gcetlinks/gcet.json.js" />
     <entry file="file://$PROJECT_DIR$/geuacm/events/2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -261,10 +303,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bestdev/courses.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12650">
+          <caret line="550" column="23" selection-start-line="550" selection-start-column="23" selection-end-line="550" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gcetlinks/gcet.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1117">
-          <caret line="49" column="62" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="62" />
+        <state relative-caret-position="211">
+          <caret line="723" column="38" selection-start-line="723" selection-start-column="38" selection-end-line="723" selection-end-column="38" />
+          <folding>
+            <element signature="e#37#1711#0" />
+            <element signature="e#696#1118#0" />
+            <element signature="e#1141#1693#0" />
+            <element signature="e#1719#1777#0" />
+            <element signature="e#1976#2450#0" />
+            <element signature="e#2473#2739#0" />
+            <element signature="e#1785#1845#0" />
+            <element signature="e#3249#3703#0" />
+            <element signature="e#3726#3988#0" />
+            <element signature="e#1853#1905#0" />
+            <element signature="e#4611#5065#0" />
+            <element signature="e#5088#5350#0" />
+            <element signature="e#1913#1976#0" />
+            <element signature="e#5922#6376#0" />
+            <element signature="e#6399#6661#0" />
+            <element signature="e#1984#2046#0" />
+            <element signature="e#7038#7492#0" />
+            <element signature="e#7515#7777#0" />
+            <element signature="e#2054#2112#0" />
+            <element signature="e#8359#8813#0" />
+            <element signature="e#8836#9098#0" />
+            <element signature="e#2120#2184#0" />
+            <element signature="e#10080#10534#0" />
+            <element signature="e#10557#10819#0" />
+            <element signature="e#2192#2244#0" />
+            <element signature="e#10999#11453#0" />
+            <element signature="e#11476#11738#0" />
+            <element signature="e#2252#2316#0" />
+            <element signature="e#12381#12835#0" />
+            <element signature="e#12858#13120#0" />
+            <element signature="e#2324#2387#0" />
+            <element signature="e#13704#14158#0" />
+            <element signature="e#14181#14443#0" />
+            <element signature="e#2395#2454#0" />
+            <element signature="e#15007#15461#0" />
+            <element signature="e#15484#15746#0" />
+            <element signature="e#2462#2527#0" />
+            <element signature="e#16140#16594#0" />
+            <element signature="e#16617#16879#0" />
+            <element signature="e#16898#18412#0" />
+            <element signature="e#17654#18108#0" />
+            <element signature="e#18131#18393#0" />
+            <element signature="e#18420#19538#0" />
+            <element signature="e#18779#19233#0" />
+            <element signature="e#19256#19518#0" />
+            <element signature="e#19546#20889#0" />
+            <element signature="e#20129#20583#0" />
+            <element signature="e#20606#20868#0" />
+            <element signature="e#21466#21920#0" />
+            <element signature="e#21943#22205#0" />
+            <element signature="e#22234#23546#0" />
+            <element signature="e#22786#23240#0" />
+            <element signature="e#23263#23525#0" />
+            <element signature="e#23554#24673#0" />
+            <element signature="e#23913#24367#0" />
+            <element signature="e#24390#24652#0" />
+            <element signature="e#24681#25992#0" />
+            <element signature="e#25232#25686#0" />
+            <element signature="e#25709#25971#0" />
+          </folding>
         </state>
       </provider>
     </entry>

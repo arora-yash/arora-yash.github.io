@@ -28,16 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gcetlinks/gcet.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="242" column="79" lean-forward="true" selection-start-line="242" selection-start-column="79" selection-end-line="242" selection-end-column="79" />
-              <folding>
-                <element signature="e#37#1369#0" />
-                <element signature="e#1377#2687#0" />
-                <element signature="e#2695#4032#0" />
-                <element signature="e#4040#5350#0" />
-                <element signature="e#5358#6467#0" />
-                <element signature="e#20469#21813#0" />
-              </folding>
+            <state relative-caret-position="273">
+              <caret line="875" column="75" selection-start-line="875" selection-start-column="75" selection-end-line="875" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -86,6 +78,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,13 +100,12 @@
               <item name="arora-yash.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="arora-yash.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="gcetlinks" type="462c0819:PsiDirectoryNode" />
-              <item name="heads" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -166,12 +158,14 @@
       <workItem from="1558780258033" duration="2601000" />
       <workItem from="1561193787513" duration="3406000" />
       <workItem from="1562412402624" duration="2018000" />
-      <workItem from="1562429473120" duration="1097000" />
+      <workItem from="1562429473120" duration="2032000" />
+      <workItem from="1563430987318" duration="1629000" />
+      <workItem from="1563439993349" duration="2723000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21533000" />
+    <option name="totallyTimeSpent" value="26820000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="23" width="1370" height="877" extended-state="0" />
@@ -257,6 +251,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gcetlinks/heads/adityaprakash.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/bestdev/courses.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12650">
@@ -264,21 +261,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gcetlinks/heads/adityaprakash.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/gcetlinks/gcet.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="242" column="79" lean-forward="true" selection-start-line="242" selection-start-column="79" selection-end-line="242" selection-end-column="79" />
-          <folding>
-            <element signature="e#37#1369#0" />
-            <element signature="e#1377#2687#0" />
-            <element signature="e#2695#4032#0" />
-            <element signature="e#4040#5350#0" />
-            <element signature="e#5358#6467#0" />
-            <element signature="e#20469#21813#0" />
-          </folding>
+        <state relative-caret-position="273">
+          <caret line="875" column="75" selection-start-line="875" selection-start-column="75" selection-end-line="875" selection-end-column="75" />
         </state>
       </provider>
     </entry>

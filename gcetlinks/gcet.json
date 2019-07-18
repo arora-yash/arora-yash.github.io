@@ -4,6 +4,7 @@
       {
         "id": "1",
         "name" : "Cam Circle",
+        "front": "https://arora-yash.github.io/gcetlinks/front/camcircle.jpg",
         "extra": {
           "description" : "We are the photo enthusiasts of Galgotias University. Stay tuned for events details and photographs.",
           "head" : [
@@ -50,6 +51,7 @@
       {
         "id": "2",
         "name" : "Chitrashala",
+        "front": "https://arora-yash.github.io/gcetlinks/front/chitrashala.jpg",
         "extra": {
           "description" : "It is the Fine Arts Club of Galgotias College.",
           "head" : [
@@ -96,6 +98,7 @@
       {
         "id": "3",
         "name" : "Creative Club",
+        "front": "https://arora-yash.github.io/gcetlinks/front/creativeclub.jpg",
         "extra": {
           "description" : "The Creative Club of Galgotias.",
           "head" : [
@@ -142,6 +145,7 @@
       {
         "id": "4",
         "name" : "FRAG",
+        "front": "https://arora-yash.github.io/gcetlinks/front/frag.jpg",
         "extra": {
           "description" : "The official Gaming Club at Galgotias.",
           "head" : [
@@ -188,6 +192,7 @@
       {
         "id": "5",
         "name" : "Guardian",
+        "front": "https://arora-yash.github.io/gcetlinks/front/guardian.jpg",
         "extra": {
           "description" : "It is the official Environment Club at Galgotias.",
           "head" : [
@@ -228,6 +233,7 @@
       {
         "id": "6",
         "name" : "Kalakriti",
+        "front": "https://arora-yash.github.io/gcetlinks/front/kalakriti.jpg",
         "extra": {
           "description" : "We at Kalakriti try our best to put forward a mirror in front of the society through drama so that the society can see its bitter image through us.",
           "head" : [
@@ -274,6 +280,7 @@
       {
         "id": "7",
         "name" : "Lingo Freaks",
+        "front": "https://arora-yash.github.io/gcetlinks/front/lingofreaks.jpg",
         "extra": {
           "description" : "We seek to impart literary understanding to students, to fuel the passionate writers, to give wings to the poets.",
           "head" : [
@@ -326,6 +333,7 @@
       {
         "id": "8",
         "name" : "Loop",
+        "front": "https://arora-yash.github.io/gcetlinks/front/loop.jpg",
         "extra": {
           "description" : "\"Coding simplified\", We are the programmers at Galgotias.",
           "head" : [
@@ -366,6 +374,7 @@
       {
         "id": "9",
         "name" : "Management Club",
+        "front": "https://arora-yash.github.io/gcetlinks/front/management.jpg",
         "extra": {
           "description" : "It is the Management Club at Galgotias.",
           "head" : [
@@ -412,6 +421,7 @@
       {
         "id": "10",
         "name" : "Marketing Club",
+        "front": "https://arora-yash.github.io/gcetlinks/front/marketing.jpg",
         "extra": {
           "description" : "It is the Marketing Club at Galgotias.",
           "head" : [
@@ -458,6 +468,7 @@
       {
         "id": "11",
         "name" : "Music Club",
+        "front": "https://arora-yash.github.io/gcetlinks/front/music.jpg",
         "extra": {
           "description" : "Music Club at galgotias.",
           "head" : [
@@ -504,6 +515,7 @@
       {
         "id": "12",
         "name" : "Xquizite",
+        "front": "https://arora-yash.github.io/gcetlinks/front/xquizite.jpg",
         "extra": {
           "description" : "Club of staunch cerebral who share accomplishments of lexical, political, geographical and varied other fields.",
           "head" : [
@@ -543,7 +555,8 @@
       },
       {
         "id": "13",
-        "name" : "Rotaract Club",
+        "name" : "",
+        "front": "https://arora-yash.github.io/gcetlinks/front/rotaract.jpg",
         "extra": {
           "description" : "Rotaract Club at Galgotias aims to make our society better and be the change that people wish to witness. ",
           "head" : [
@@ -590,6 +603,7 @@
       {
         "id": "14",
         "name" : "SAE",
+        "front": "https://arora-yash.github.io/gcetlinks/front/sae.jpg",
         "extra": {
           "description" : "Society of Automotive Engineers(SAE). We are SAE Galgotias collegiate chapter, founded in 2011 by students of BTech(ME).",
           "head" : [
@@ -636,6 +650,7 @@
       {
         "id": "15",
         "name" : "Scintillations",
+        "front": "https://arora-yash.github.io/gcetlinks/front/scintillations.jpg",
         "extra": {
           "description" : "Fashion club at Galgotias.",
           "head" : [
@@ -676,6 +691,7 @@
       {
         "id": "16",
         "name" : "Self Defence",
+        "front": "https://arora-yash.github.io/gcetlinks/front/selfdefence.jpg",
         "extra": {
           "description" : "The Self Defence training club at Galgotias.",
           "head" : [
@@ -716,6 +732,7 @@
       {
         "id": "17",
         "name" : "Sponsorship Club",
+        "front": "https://arora-yash.github.io/gcetlinks/front/sponsorship.jpg",
         "extra": {
           "description" : "The club is responsible for bringing all the sponsors for all the major events of GCET.",
           "head" : [
@@ -762,6 +779,7 @@
       {
         "id": "18",
         "name" : "Studio D",
+        "front": "https://arora-yash.github.io/gcetlinks/front/studiod.jpg",
         "extra": {
           "description" : "Official Dance Club of Galgotias Institute. We aim at producing highly efficient performers and give tremendous opportunities to students to excel in dance.",
           "head" : [
@@ -808,6 +826,7 @@
       {
         "id": "19",
         "name" : "Team Enthiran",
+        "front": "https://arora-yash.github.io/gcetlinks/front/enthiran.jpg",
         "extra": {
           "description" : "This is the club determined to bring out the practical aspect of a budding engineer in Galgotias.",
           "head" : [
@@ -854,6 +873,7 @@
       {
         "id": "20",
         "name" : "Team PR",
+        "front": "https://arora-yash.github.io/gcetlinks/front/teampr.jpg",
         "extra": {
           "description" : "Public Realtions(PR),our mission is to support CORE team in smooth functioning of various activities and events going on in our institution and build healthy relations with other prestigious institutions.",
           "head" : [

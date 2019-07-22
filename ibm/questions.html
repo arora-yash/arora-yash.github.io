@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Fatal error</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<section class="block">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<div class="jumbotron pt-10p">
+						<h1 class="headingColor">Your Top 3 answers - {{ query }}</h1>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-2"></div>
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<div class="qna" id="qna">
+						<div class="tags" id="list">
+
+						</div>
+						<div class="questions">
+							<h4 class="questionColor inline" id="ques"></h4>
+							<span class="floatRight" id="visit"></span>
+						</div>
+						<div class="answers" id="ans">
+
+						</div>
+					</div>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+			<div class="col-md-2"></div>
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<div class="qna" id="qna1">
+						<div class="tags" id="list1">
+
+						</div>
+						<div class="questions">
+							<h4 class="questionColor inline" id="ques1"></h4>
+							<span class="floatRight" id="visit1"></span>
+						</div>
+						<div class="answers" id="ans1">
+
+						</div>
+					</div>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+	</section>
+	<script src="fetchdata.js"></script>
+</body>
+</html>

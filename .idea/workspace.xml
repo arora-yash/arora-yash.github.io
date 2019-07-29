@@ -86,12 +86,7 @@
             <path>
               <item name="arora-yash.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="arora-yash.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="bestdev" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arora-yash.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arora-yash.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="gcetlinks" type="462c0819:PsiDirectoryNode" />
+              <item name="ibm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -152,16 +147,17 @@
       <workItem from="1562429473120" duration="2032000" />
       <workItem from="1563430987318" duration="1629000" />
       <workItem from="1563439993349" duration="3093000" />
+      <workItem from="1563810970131" duration="580000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27190000" />
+    <option name="totallyTimeSpent" value="27770000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="23" width="1370" height="877" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2624166" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2624166" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -173,7 +169,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.34850454" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.34850454" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />

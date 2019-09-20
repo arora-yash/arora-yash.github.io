@@ -2,12 +2,6 @@
   "payload": {
     "user": [
       {
-        "name": "Dr. Ankush Mittal",
-        "designation": "ML",
-        "image": "https://arora-yash.github.io/geuacm/research/ankush.jpg",
-        "email": "dr.ankush.mittal@gmail.com"
-      },
-      {
         "name": "Dr. Devesh Pratap Singh",
         "designation": "Networking, Soft Computing",
         "image": "https://arora-yash.github.io/geuacm/research/devesh.jpg",

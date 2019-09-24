@@ -2,22 +2,54 @@
   "payload": {
     "user": [
       {
-        "name": "1st Sem",
+        "name": "Machine Learning",
         "header": true
       },
       {
-        "name": "Chemistry",
-        "url": "https://drive.google.com/open?id=1biZ1HrlkXaGY0wdkjhA2_7oLSZSi5MDa",
+        "name": "Object Detection",
+        "url": "https://www.youtube.com/watch?v=JHMQVTbVMCA",
         "header": false
       },
       {
-        "name": "Electronics",
-        "url": "https://drive.google.com/open?id=1JM0EjiVHJnCiO35qImMuwSaJTUQ09NFg",
+        "name": "Web Development",
+        "header": true
+      },
+      {
+        "name": "REST API using PHP",
+        "url": "https://www.youtube.com/watch?v=zR-OJNUjOo8",
         "header": false
       },
       {
-        "name": "Environment",
-        "url": "https://drive.google.com/open?id=1nyNf0dkYy4AQ3x_Dmdov2S8znd8mVh0C",
+        "name": "Android Development",
+        "header": true
+      },
+      {
+        "name": "GST Calculator",
+        "url": "https://www.youtube.com/watch?v=R8UjXDHFwd4",
+        "header": false
+      },
+      {
+        "name": "Coin Toss",
+        "url": "https://www.youtube.com/watch?v=SWcV4xPlaeo",
+        "header": false
+      },
+      {
+        "name": "Python",
+        "header": true
+      },
+      {
+        "name": "Build a Chatbot in 5 minutes",
+        "url": "https://www.youtube.com/watch?v=gCQCnIVD580",
+        "header": false
+      },
+      {
+        "name": "Snake Game",
+        "url": "https://www.youtube.com/watch?v=Ies8mEhO9FY",
+        "header": false
+      },
+      {
+        "name": "Web Crawler",
+        "url": "https://www.youtube.com/watch?v=gxfKTA0cGK8",
         "header": false
       }
     ]

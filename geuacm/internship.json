@@ -2,10 +2,22 @@
   "payload": {
     "user": [
       {
-        "name": "Article and Blog Writing",
-        "description": "Paid Internship - Certificates & Stipend",
-        "image": "https://arora-yash.github.io/geuacm/events/3.png",
-        "url": "https://google.com"
+        "name": "Software Developer",
+        "description": "http://noobtodev.com",
+        "image": "https://arora-yash.github.io/geuacm/events/n2d.jpg",
+        "url": "https://docs.google.com/forms/d/1IYMH0CP4CUDIrXim_1rYXpQwh-1vGcaEkD1lLB3q39g/edit?ts=5d9317b5"
+      },
+      {
+        "name": "Content Writer",
+        "description": "http://noobtodev.com",
+        "image": "https://arora-yash.github.io/geuacm/events/n2d.jpg",
+        "url": "https://docs.google.com/forms/d/1IYMH0CP4CUDIrXim_1rYXpQwh-1vGcaEkD1lLB3q39g/edit?ts=5d9317b5"
+      },
+      {
+        "name": "Social Media Handler",
+        "description": "http://noobtodev.com",
+        "image": "https://arora-yash.github.io/geuacm/events/n2d.jpg",
+        "url": "https://docs.google.com/forms/d/1IYMH0CP4CUDIrXim_1rYXpQwh-1vGcaEkD1lLB3q39g/edit?ts=5d9317b5"
       }
     ]
   },

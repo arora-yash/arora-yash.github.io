@@ -2,10 +2,46 @@
   "payload": {
     "user": [
       {
-        "name": "International Model United Nations",
-        "description": "MUN",
-        "image": "https://arora-yash.github.io/geuacm/events/2.png",
-        "url": "https://goo.gl/forms/YvleHvNPyffssIzI2"
+        "name": "Ambience Allusion",
+        "description": "Videography",
+        "image": "https://arora-yash.github.io/geuacm/events/1.jpeg",
+        "url": "https://form.jotform.me/92536483593468"
+      },
+      {
+        "name": "Stranger Code",
+        "description": "Competitive Coding",
+        "image": "https://arora-yash.github.io/geuacm/events/2.jpeg",
+        "url": "https://form.jotform.me/92536483593468"
+      },
+      {
+        "name": "Colourful Thoughts",
+        "description": "Poster Making Competition",
+        "image": "https://arora-yash.github.io/geuacm/events/3.jpeg",
+        "url": "https://form.jotform.me/92536483593468"
+      },
+      {
+        "name": "Adrenaline Rush",
+        "description": "Gaming",
+        "image": "https://arora-yash.github.io/geuacm/events/4.jpeg",
+        "url": "https://form.jotform.me/92536483593468"
+      },
+      {
+        "name": "Paparazzi",
+        "description": "Photography",
+        "image": "https://arora-yash.github.io/geuacm/events/5.jpeg",
+        "url": "https://form.jotform.me/92536483593468"
+      },
+      {
+        "name": "Technomania",
+        "description": "Technical Quiz",
+        "image": "https://arora-yash.github.io/geuacm/events/6.jpeg",
+        "url": "https://form.jotform.me/92536483593468"
+      },
+      {
+        "name": "E-Colloquium",
+        "description": "Symposium",
+        "image": "https://arora-yash.github.io/geuacm/events/7.jpeg",
+        "url": "https://form.jotform.me/92536483593468"
       }
     ]
   },

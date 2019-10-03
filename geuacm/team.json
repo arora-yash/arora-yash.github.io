@@ -2,14 +2,38 @@
   "payload": {
     "user": [
       {
-        "name": "Yash Kumar Arora",
+        "name": "Maneesha Negi",
         "designation": "Chair",
+        "image": "https://arora-yash.github.io/geuacm/team/manisha.jpeg",
+        "phone": "+918899040004"
+      },
+      {
+        "name": "Sarthak Gautam",
+        "designation": "Vice Chair",
+        "image": "https://arora-yash.github.io/geuacm/team/1.png",
+        "phone": "+918899040004"
+      },
+      {
+        "name": "Sanyam Jain",
+        "designation": "Treasurer",
+        "image": "https://arora-yash.github.io/geuacm/team/1.png",
+        "phone": "+918899040004"
+      },
+      {
+        "name": "Yash Kumar Arora",
+        "designation": "Web Master",
         "image": "https://arora-yash.github.io/geuacm/team/yash.png",
         "phone": "+918899040004"
       },
       {
+        "name": "Vidur",
+        "designation": "Secretary",
+        "image": "https://arora-yash.github.io/geuacm/team/vidur.jpeg",
+        "phone": "+918899040004"
+      },
+      {
         "name": "Siddhant Aggarwal",
-        "designation": "Vice Chair",
+        "designation": "Membership Chair",
         "image": "https://arora-yash.github.io/geuacm/team/siddhant.jpg",
         "phone": "+919717374362"
       }

@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="fb2ec25b-73c4-4dca-9dc9-caffac64bd3f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geuacm/events.json" beforeDir="false" afterPath="$PROJECT_DIR$/geuacm/events.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geuacm/team.json" beforeDir="false" afterPath="$PROJECT_DIR$/geuacm/team.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geuacm/team/siddhant.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/geuacm/team/siddhant.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geuacm/team/yash.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,11 +36,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/geuacm/events.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+            <state relative-caret-position="989">
+              <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/geuacm/team.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-42">
+              <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -63,7 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/geuacm/team.json" />
         <option value="$PROJECT_DIR$/bestdev/courses.json.js" />
         <option value="$PROJECT_DIR$/bestdev/courses.json" />
         <option value="$PROJECT_DIR$/geuhostel/hostels.json" />
@@ -75,6 +85,7 @@
         <option value="$PROJECT_DIR$/geuacm/projects.json" />
         <option value="$PROJECT_DIR$/geuacm/internship.json" />
         <option value="$PROJECT_DIR$/geuacm/events.json" />
+        <option value="$PROJECT_DIR$/geuacm/team.json" />
       </list>
     </option>
   </component>
@@ -172,12 +183,12 @@
       <workItem from="1569923635406" duration="1070000" />
       <workItem from="1570079160221" duration="94000" />
       <workItem from="1570079351725" duration="421000" />
-      <workItem from="1570093500856" duration="249000" />
+      <workItem from="1570093500856" duration="1069000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32330000" />
+    <option name="totallyTimeSpent" value="33150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="74" y="23" width="1366" height="877" extended-state="0" />
@@ -217,13 +228,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/bestdev/courses.json.js" />
-    <entry file="file://$PROJECT_DIR$/geuacm/team.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gcetlinks/gcet.json.js" />
     <entry file="file://$PROJECT_DIR$/geuacm/events/2.png">
       <provider selected="true" editor-type-id="images" />
@@ -289,8 +293,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/geuacm/events.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        <state relative-caret-position="989">
+          <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geuacm/team.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
         </state>
       </provider>
     </entry>

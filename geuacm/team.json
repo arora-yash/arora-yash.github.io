@@ -8,15 +8,15 @@
         "phone": "+918755377359"
       },
       {
-        "name": "Sarthak Gautam",
+        "name": "Saarthak Gautam",
         "designation": "Vice Chair",
-        "image": "https://arora-yash.github.io/geuacm/team/1.png",
+        "image": "https://arora-yash.github.io/geuacm/team/saarthak.jpeg",
         "phone": "+917005038443"
       },
       {
         "name": "Sanyam Jain",
         "designation": "Treasurer",
-        "image": "https://arora-yash.github.io/geuacm/team/1.png",
+        "image": "https://arora-yash.github.io/geuacm/team/sanyam.jpeg",
         "phone": "+919761603936"
       },
       {
@@ -36,6 +36,30 @@
         "designation": "Membership Chair",
         "image": "https://arora-yash.github.io/geuacm/team/siddhant.jpg",
         "phone": "+919717374362"
+      },
+      {
+        "name": "Gopal Jee",
+        "designation": "Research Head",
+        "image": "https://arora-yash.github.io/geuacm/team/gopaljee.png",
+        "phone": "+919798973570"
+      },
+      {
+        "name": "Harsh",
+        "designation": "Literature Head",
+        "image": "https://arora-yash.github.io/geuacm/team/harsh.jpeg",
+        "phone": "+918979644771"
+      },
+      {
+        "name": "Pooja Chaudhary",
+        "designation": "Vice Technical Head",
+        "image": "https://arora-yash.github.io/geuacm/team/pooja.jpeg",
+        "phone": "+919997575341"
+      },
+      {
+        "name": "Suhani Panwar",
+        "designation": "Cultural Head",
+        "image": "https://arora-yash.github.io/geuacm/team/suhani.jpeg",
+        "phone": "+917830894508"
       }
     ]
   },

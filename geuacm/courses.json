@@ -2,6 +2,69 @@
   "payload": {
     "user": [
       {
+        "name": "Free Courses Offered by Udemy (>30hrs)",
+        "header": true
+      },
+      {
+        "name": "Swift - IOs Development",
+        "url": "https://www.udemy.com/course/the-complete-ios-10-developer-course/",
+        "header": false
+      },
+      {
+        "name": "Android Development Course",
+        "url": "https://www.udemy.com/course/the-essential-android-o-developer-course-java/",
+        "header": false
+      },
+      {
+        "name": "Basics of JavaScript",
+        "url": "https://www.udemy.com/course/the-essential-android-o-developer-course-java/",
+        "header": false
+      },
+      {
+        "name": "Selenium for Mobile Automation Testing",
+        "url": "https://www.udemy.com/course/appium-selenium-for-mobile-automation-testing/",
+        "header": false
+      },
+      {
+        "name": "Learn Arabic language",
+        "url": "https://www.udemy.com/course/learn-spoken-arabic-greetings-blessings-hundreds-more/",
+        "header": false
+      },
+      {
+        "name": "Free Courses Offered by FreeCodeCamp (=300hrs)",
+        "header": true
+      },
+      {
+        "name": "Responsive Web Design Certification",
+        "url": "https://www.freecodecamp.org/learn/",
+        "header": false
+      },
+      {
+        "name": "JavaScript Algorithms and Data Structures Certification",
+        "url": "https://www.freecodecamp.org/learn/",
+        "header": false
+      },
+      {
+        "name": "Front End Libraries Certification",
+        "url": "https://www.freecodecamp.org/learn/",
+        "header": false
+      },
+      {
+        "name": "Data Visualization Certification",
+        "url": "https://www.freecodecamp.org/learn/",
+        "header": false
+      },
+      {
+        "name": "APIs and Micro-Services Certification",
+        "url": "https://www.freecodecamp.org/learn/",
+        "header": false
+      },
+      {
+        "name": "Information Security and Quality Assurance Certification",
+        "url": "https://www.freecodecamp.org/learn/",
+        "header": false
+      },
+      {
         "name": "RoadMap",
         "header": true
       },

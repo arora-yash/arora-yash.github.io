@@ -2,15 +2,15 @@
   "payload": {
     "user": [
       {
+        "name": "Hands On : Git + Linux101",
+        "description": "Workshop",
+        "image": "https://arora-yash.github.io/geuacm/events/10.png",
+        "url": "https://docs.google.com/forms/d/1Czq1G-3YYsBazZrUSYVt7v3y6rzxEt_FyXEc-PfkahE/edit?ts=5dc7e089"
+      },
+      {
         "name": "Ambience Allusion",
         "description": "Videography",
         "image": "https://arora-yash.github.io/geuacm/events/1.jpeg",
-        "url": "https://form.jotform.me/92536483593468"
-      },
-      {
-        "name": "Stranger Code",
-        "description": "Competitive Coding",
-        "image": "https://arora-yash.github.io/geuacm/events/2.jpeg",
         "url": "https://form.jotform.me/92536483593468"
       },
       {
@@ -37,12 +37,6 @@
         "image": "https://arora-yash.github.io/geuacm/events/6.jpeg",
         "url": "https://form.jotform.me/92536483593468"
       },
-      {
-        "name": "E-Colloquium",
-        "description": "Symposium",
-        "image": "https://arora-yash.github.io/geuacm/events/7.jpeg",
-        "url": "https://form.jotform.me/92536483593468"
-      }
     ]
   },
   "meta": {},

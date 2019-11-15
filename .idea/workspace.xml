@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb2ec25b-73c4-4dca-9dc9-caffac64bd3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/geuacm/certificates.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geuacm/events.json" beforeDir="false" afterPath="$PROJECT_DIR$/geuacm/events.json" afterDir="false" />
-    </list>
+    <list default="true" id="fb2ec25b-73c4-4dca-9dc9-caffac64bd3f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -112,12 +108,6 @@
               <item name="arora-yash.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="geuacm" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="arora-yash.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arora-yash.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="geuacm" type="462c0819:PsiDirectoryNode" />
-              <item name="events" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -194,12 +184,12 @@
       <workItem from="1570357292223" duration="629000" />
       <workItem from="1572887275446" duration="623000" />
       <workItem from="1573380936367" duration="438000" />
-      <workItem from="1573810796061" duration="650000" />
+      <workItem from="1573810796061" duration="923000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35788000" />
+    <option name="totallyTimeSpent" value="36061000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />

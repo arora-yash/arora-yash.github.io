@@ -2,22 +2,66 @@
   "payload": {
     "user": [
       {
-        "name": "1st Sem",
+        "name": "Chemistry Group",
         "header": true
       },
       {
-        "name": "Chemistry",
-        "url": "https://drive.google.com/open?id=1biZ1HrlkXaGY0wdkjhA2_7oLSZSi5MDa",
+        "name": "Chemistry (TCH)",
+        "url": "https://drive.google.com/open?id=1c1jCBP6stXKYjTy7awGQrnMuphkL-7kc",
         "header": false
       },
       {
-        "name": "Electronics",
-        "url": "https://drive.google.com/open?id=1JM0EjiVHJnCiO35qImMuwSaJTUQ09NFg",
+        "name": "Electronics and Communications Engineering (TEC)",
+        "url": "https://drive.google.com/open?id=1rzQlvW_zvvDdmgMCk-IRxt-fdvms6ZJw",
         "header": false
       },
       {
-        "name": "Environment",
-        "url": "https://drive.google.com/open?id=1nyNf0dkYy4AQ3x_Dmdov2S8znd8mVh0C",
+        "name": "Environment Science (TEV)",
+        "url": "https://drive.google.com/open?id=1PGmEyOOkWcuX_fPBaErP5KhUnkUoYswS",
+        "header": false
+      },
+      {
+        "name": "Professional Communication",
+        "url": "https://drive.google.com/open?id=16QAUGEf94r__lBgHqYKD4LCx9bSjsj0G",
+        "header": false
+      },
+      {
+        "name": "Computer Science",
+        "url": "https://drive.google.com/open?id=1xhhdL0munWXDECwUlTVJ8EW_jjA8aBOd",
+        "header": false
+      },
+      {
+        "name": "Physics Group",
+        "header": true
+      },
+      {
+        "name": "Electrical",
+        "url": "https://drive.google.com/open?id=1FLl0mqfBsaJgTyrFcWMf41ZKenFl-gww",
+        "header": false
+      },
+      {
+        "name": "Health & Fitness",
+        "url": "https://drive.google.com/open?id=152-zl2tNOlythIw4RVjZbUHgWefdM-cl",
+        "header": false
+      },
+      {
+        "name": "Mechanical",
+        "url": "https://drive.google.com/open?id=1duMndQsKsxZeg8larwWcEtLdGX4o66-U",
+        "header": false
+      },
+      {
+        "name": "Professional Communication",
+        "url": "https://drive.google.com/open?id=16QAUGEf94r__lBgHqYKD4LCx9bSjsj0G",
+        "header": false
+      },
+      {
+        "name": "Computer Science",
+        "url": "https://drive.google.com/open?id=1xhhdL0munWXDECwUlTVJ8EW_jjA8aBOd",
+        "header": false
+      },
+      {
+        "name": "Physics",
+        "url": "https://drive.google.com/open?id=1U8OMxwyzjap3kfe8QfT7ObYKFMjMfJ4n",
         "header": false
       }
     ]

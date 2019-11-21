@@ -67,11 +67,12 @@
       {
         "name": "3rd Semester",
         "header": true
-      }, {
+      },
+      {
         "name": "Cloud Computing",
         "url": "https://drive.google.com/open?id=1ATa6qIJm8ZbNNl3CLSBbUz3asXyRIJZi",
         "header": false
-      },
+      }
     ]
   },
   "meta": {},

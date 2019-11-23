@@ -72,6 +72,26 @@
         "name": "Cloud Computing",
         "url": "https://drive.google.com/open?id=1ATa6qIJm8ZbNNl3CLSBbUz3asXyRIJZi",
         "header": false
+      },
+      {
+        "name": "Logic Design",
+        "url": "https://drive.google.com/open?id=0B0g-3c0xQmq0T3pubjdKN3hwNm8",
+        "header": false
+      },
+      {
+        "name": "Data Structures",
+        "url": "https://drive.google.com/open?id=1MlH0QUqu6NYOAzSCZ1FcBbLaiJtW9kCf",
+        "header": false
+      },
+      {
+        "name": "Discrete Mathematics",
+        "url": "https://drive.google.com/open?id=0B0g-3c0xQmq0alNMTkN3RjhSYXc",
+        "header": false
+      },
+      {
+        "name": "Graph Theory",
+        "url": "https://drive.google.com/open?id=0B0g-3c0xQmq0YmJUU1hBODlYc1E",
+        "header": false
       }
     ]
   },

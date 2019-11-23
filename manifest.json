@@ -1,0 +1,25 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Yash Kumar Arora",
+    "scope": "/",
+    "display": "fullscreen",
+    "start_url": "https://arora-yash.github.io/",
+    "short_name": "Yash",
+    "theme_color": "#212121",
+    "description": "Yash's Portfolio. A CSE Undergrad at Graphic Era deemed to be University, Dehradun. Developer, Dreamer, Achiever.",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/img/favicon.ico",
+            "sizes": "16x16"
+        },
+        {
+            "src": "/images/img/favicon.ico",
+            "sizes": "16x16"
+        }
+    ]
+}

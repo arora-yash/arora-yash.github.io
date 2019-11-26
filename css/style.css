@@ -10,6 +10,10 @@ body {
     background-size: cover;
 }
 
+.mdl-layout__tab-bar-button {
+    background-color: transparent!important;
+}
+
 .mdl-layout__header {
     background: transparent;
 }

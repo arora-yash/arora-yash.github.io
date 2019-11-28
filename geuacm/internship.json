@@ -3,6 +3,12 @@
     "user": [
       {
         "name": "Software Developer",
+        "description": "https://www.theninequeens.com/",
+        "image": "https://arora-yash.github.io/geuacm/events/nq.jpeg",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdevzRrewq708Ny9qIaCvcEZg7S2BERlmhHvBtCX_PVur1hMw/viewform?usp=sf_link"
+      },
+      {
+        "name": "Software Developer",
         "description": "https://noobtodev.com",
         "image": "https://arora-yash.github.io/geuacm/events/n2d.jpg",
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSeeK6tCTYAcvYNsW3ZoOyXCqMHVlFm9GhozSKGUHcCXmSoOvA/viewform"

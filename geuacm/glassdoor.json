@@ -1,0 +1,370 @@
+{
+    "created-at":"2021-09-05",
+    "payload":[
+        {
+            "id": 1,
+            "username":"admin",
+            "password":"password",
+            "image":"https://arora-yash.github.io/img/propic.jpg",
+            "organisations":[
+                {
+                    "id":1,
+                    "name":"Ministry of Health",
+                    "budget":"2500 Cr",
+                    "year":"2020-2021",
+                    "expenditure":[
+                        {
+                            "id":1,
+                            "name":"MoAyush",
+                            "spent":"230 Cr",
+                            "departments":[
+                                {
+                                    "id":1,
+                                    "name":"MoAyush",
+                                    "spent":"30 Cr"
+                                },
+                                {
+                                    "id":2,
+                                    "name":"Nutrition",
+                                    "spent":"20 Cr"
+                                },
+                                {
+                                    "id":3,
+                                    "name":"Family Welfare",
+                                    "spent":"50 Cr"
+                                },
+                                {
+                                    "id":4,
+                                    "name":"Sanitation",
+                                    "spent":"150 Cr"
+                                },
+                                {
+                                    "id":5,
+                                    "name":"Health",
+                                    "spent":"20 Cr"
+                                }
+                            ]
+                        },
+                        {
+                            "id":2,
+                            "name":"Nutrition",
+                            "spent":"1230 Cr",
+                            "departments":[
+                                {
+                                    "id":1,
+                                    "name":"MoAyush",
+                                    "spent":"800 Cr"
+                                },
+                                {
+                                    "id":2,
+                                    "name":"Nutrition",
+                                    "spent":"200 Cr"
+                                },
+                                {
+                                    "id":3,
+                                    "name":"Family Welfare",
+                                    "spent":"50 Cr"
+                                },
+                                {
+                                    "id":4,
+                                    "name":"Sanitation",
+                                    "spent":"30 Cr"
+                                },
+                                {
+                                    "id":5,
+                                    "name":"Health",
+                                    "spent":"150 Cr"
+                                }
+                            ]
+                        },
+                        {
+                            "id":3,
+                            "name":"Family Welfare",
+                            "spent":"20 Cr",
+                            "departments":[
+                                {
+                                    "id":1,
+                                    "name":"MoAyush",
+                                    "spent":"8 Cr"
+                                },
+                                {
+                                    "id":2,
+                                    "name":"Nutrition",
+                                    "spent":"2 Cr"
+                                },
+                                {
+                                    "id":3,
+                                    "name":"Family Welfare",
+                                    "spent":"5 Cr"
+                                },
+                                {
+                                    "id":4,
+                                    "name":"Sanitation",
+                                    "spent":"3 Cr"
+                                },
+                                {
+                                    "id":5,
+                                    "name":"Health",
+                                    "spent":"2 Cr"
+                                }
+                            ]
+                        },
+                        {
+                            "id":4,
+                            "name":"Sanitation",
+                            "spent":"40 Cr",
+                            "departments":[
+                                {
+                                    "id":1,
+                                    "name":"MoAyush",
+                                    "spent":"8 Cr"
+                                },
+                                {
+                                    "id":2,
+                                    "name":"Nutrition",
+                                    "spent":"2 Cr"
+                                },
+                                {
+                                    "id":3,
+                                    "name":"Family Welfare",
+                                    "spent":"7 Cr"
+                                },
+                                {
+                                    "id":4,
+                                    "name":"Sanitation",
+                                    "spent":"3 Cr"
+                                },
+                                {
+                                    "id":5,
+                                    "name":"Health",
+                                    "spent":"20 Cr"
+                                }
+                            ]
+                        },
+                        {
+                            "id":5,
+                            "name":"Health",
+                            "spent":"50 Cr",
+                            "departments":[
+                                {
+                                    "id":1,
+                                    "name":"MoAyush",
+                                    "spent":"8 Cr"
+                                },
+                                {
+                                    "id":2,
+                                    "name":"Nutrition",
+                                    "spent":"20 Cr"
+                                },
+                                {
+                                    "id":3,
+                                    "name":"Family Welfare",
+                                    "spent":"5 Cr"
+                                },
+                                {
+                                    "id":4,
+                                    "name":"Sanitation",
+                                    "spent":"7 Cr"
+                                },
+                                {
+                                    "id":5,
+                                    "name":"Health",
+                                    "spent":"10 Cr"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id":2,
+                    "name":"Defence Ministry",
+                    "budget":"2500 Cr",
+                    "year":"2020-2021",
+                    "expenditure":[
+                        {
+                            "id":1,
+                            "name":"MoAyush",
+                            "spent":"230 Cr",
+                            "departments":[
+                                {
+                                    "id":1,
+                                    "name":"MoAyush",
+                                    "spent":"30 Cr"
+                                },
+                                {
+                                    "id":2,
+                                    "name":"Nutrition",
+                                    "spent":"20 Cr"
+                                },
+                                {
+                                    "id":3,
+                                    "name":"Family Welfare",
+                                    "spent":"50 Cr"
+                                },
+                                {
+                                    "id":4,
+                                    "name":"Sanitation",
+                                    "spent":"150 Cr"
+                                },
+                                {
+                                    "id":5,
+                                    "name":"Health",
+                                    "spent":"20 Cr"
+                                }
+                            ]
+                        },
+                        {
+                            "id":2,
+                            "name":"Nutrition",
+                            "spent":"1230 Cr",
+                            "departments":[
+                                {
+                                    "id":1,
+                                    "name":"MoAyush",
+                                    "spent":"800 Cr"
+                                },
+                                {
+                                    "id":2,
+                                    "name":"Nutrition",
+                                    "spent":"200 Cr"
+                                },
+                                {
+                                    "id":3,
+                                    "name":"Family Welfare",
+                                    "spent":"50 Cr"
+                                },
+                                {
+                                    "id":4,
+                                    "name":"Sanitation",
+                                    "spent":"30 Cr"
+                                },
+                                {
+                                    "id":5,
+                                    "name":"Health",
+                                    "spent":"150 Cr"
+                                }
+                            ]
+                        },
+                        {
+                            "id":3,
+                            "name":"Family Welfare",
+                            "spent":"20 Cr",
+                            "departments":[
+                                {
+                                    "id":1,
+                                    "name":"MoAyush",
+                                    "spent":"8 Cr"
+                                },
+                                {
+                                    "id":2,
+                                    "name":"Nutrition",
+                                    "spent":"2 Cr"
+                                },
+                                {
+                                    "id":3,
+                                    "name":"Family Welfare",
+                                    "spent":"5 Cr"
+                                },
+                                {
+                                    "id":4,
+                                    "name":"Sanitation",
+                                    "spent":"3 Cr"
+                                },
+                                {
+                                    "id":5,
+                                    "name":"Health",
+                                    "spent":"2 Cr"
+                                }
+                            ]
+                        },
+                        {
+                            "id":4,
+                            "name":"Sanitation",
+                            "spent":"40 Cr",
+                            "departments":[
+                                {
+                                    "id":1,
+                                    "name":"MoAyush",
+                                    "spent":"8 Cr"
+                                },
+                                {
+                                    "id":2,
+                                    "name":"Nutrition",
+                                    "spent":"2 Cr"
+                                },
+                                {
+                                    "id":3,
+                                    "name":"Family Welfare",
+                                    "spent":"7 Cr"
+                                },
+                                {
+                                    "id":4,
+                                    "name":"Sanitation",
+                                    "spent":"3 Cr"
+                                },
+                                {
+                                    "id":5,
+                                    "name":"Health",
+                                    "spent":"20 Cr"
+                                }
+                            ]
+                        },
+                        {
+                            "id":5,
+                            "name":"Health",
+                            "spent":"50 Cr",
+                            "departments":[
+                                {
+                                    "id":1,
+                                    "name":"MoAyush",
+                                    "spent":"8 Cr"
+                                },
+                                {
+                                    "id":2,
+                                    "name":"Nutrition",
+                                    "spent":"20 Cr"
+                                },
+                                {
+                                    "id":3,
+                                    "name":"Family Welfare",
+                                    "spent":"5 Cr"
+                                },
+                                {
+                                    "id":4,
+                                    "name":"Sanitation",
+                                    "spent":"7 Cr"
+                                },
+                                {
+                                    "id":5,
+                                    "name":"Health",
+                                    "spent":"10 Cr"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "username":"yash",
+            "password":"pass",
+            "image":"https://arora-yash.github.io/img/propic.jpg",
+            "organisations":[
+                {
+                    "id":1,
+                    "name":"Home Ministry",
+                    "budget":"25000 Cr",
+                    "year":"2020-2021",
+                    "expenditure":[
+                        {
+                            "id":1,
+                            "name":"Ministry of Health",
+                            "spent":"2500 Cr"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
